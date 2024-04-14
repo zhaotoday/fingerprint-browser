@@ -10,3 +10,4 @@
 - [selenium和playwright工具类保持登录](https://www.bilibili.com/video/BV1ww411Y7T9/)
 - [Python爬虫实战第20关H06 - 初识浏览器指纹：Selenium是如何被反爬的](https://www.bilibili.com/video/BV1sW4y1N7s8/)
 - [什么是指纹浏览器，怎么检测指纹浏览器](https://www.bilibili.com/video/BV15r421b7eS/)
+- [JS逆向](https://www.bilibili.com/video/BV1ov4y1w7xT/)
