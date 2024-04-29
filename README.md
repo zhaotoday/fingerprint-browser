@@ -13,3 +13,8 @@
 - [JS逆向](https://www.bilibili.com/video/BV1ov4y1w7xT/)
 - [【指纹浏览器】互联网运营必备隐藏身份工具](https://www.bilibili.com/video/BV195411y775/)
 - [深入浏览器内核](https://www.bilibili.com/video/BV1tj411P7dF/)
+
+#### 开源
+- [Chrome Power](https://github.com/zmzimpl/chrome-power-app)
+- [Chrome Power](https://github.com/zmzimpl/chrome-power-chromium)
+- [openFpchromium](https://github.com/FPEsocrter/openFpchromium)
