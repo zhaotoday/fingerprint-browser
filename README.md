@@ -18,3 +18,4 @@
 - [Chrome Power](https://github.com/zmzimpl/chrome-power-app)
 - [Chrome Power](https://github.com/zmzimpl/chrome-power-chromium)
 - [openFpchromium](https://github.com/FPEsocrter/openFpchromium)
+- [VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser)
