@@ -20,6 +20,7 @@
 - [openFpchromium](https://github.com/FPEsocrter/openFpchromium)
 - [VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser)
 - [my-fingerprint](https://github.com/omegaee/my-fingerprint)
+- [Venom-aoman](https://github.com/z-bool/Venom-aoman)
 
 #### 代理
 - [IP Cats](https://ip-cats.com/)
