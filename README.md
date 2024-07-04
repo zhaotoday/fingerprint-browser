@@ -22,6 +22,7 @@
 - [my-fingerprint](https://github.com/omegaee/my-fingerprint)
 - [Venom-aoman](https://github.com/z-bool/Venom-aoman)
 - [luna-browser](https://github.com/musiclover789/luna-browser)
+- [BrowserBox](https://github.com/BrowserBox/BrowserBox)
 
 #### 代理
 - [IP Cats](https://ip-cats.com/)
