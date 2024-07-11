@@ -23,6 +23,7 @@
 - [Venom-aoman](https://github.com/z-bool/Venom-aoman)
 - [luna-browser](https://github.com/musiclover789/luna-browser)
 - [BrowserBox](https://github.com/BrowserBox/BrowserBox)
+- [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)
 
 #### 代理
 - [IP Cats](https://ip-cats.com/)
