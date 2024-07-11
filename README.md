@@ -24,6 +24,7 @@
 - [luna-browser](https://github.com/musiclover789/luna-browser)
 - [BrowserBox](https://github.com/BrowserBox/BrowserBox)
 - [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)
+- [puppeteer-with-fingerprints](https://github.com/CheshireCaat/puppeteer-with-fingerprints)
 
 #### 代理
 - [IP Cats](https://ip-cats.com/)
