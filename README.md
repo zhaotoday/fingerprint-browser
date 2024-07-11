@@ -25,6 +25,7 @@
 - [BrowserBox](https://github.com/BrowserBox/BrowserBox)
 - [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)
 - [puppeteer-with-fingerprints](https://github.com/CheshireCaat/puppeteer-with-fingerprints)
+- [Top-antidetect-browser](https://github.com/meimeiblue01/best-antidetect-browser/blob/main/Top-antidetect-browser.md)
 
 #### 代理
 - [IP Cats](https://ip-cats.com/)
