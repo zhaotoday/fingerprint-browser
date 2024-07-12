@@ -26,6 +26,7 @@
 - [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)
 - [puppeteer-with-fingerprints](https://github.com/CheshireCaat/puppeteer-with-fingerprints)
 - [Top-antidetect-browser](https://github.com/meimeiblue01/best-antidetect-browser/blob/main/Top-antidetect-browser.md)
+- [chrome-fingerprints](https://github.com/Vinyzu/chrome-fingerprints)
 
 #### 代理
 - [IP Cats](https://ip-cats.com/)
