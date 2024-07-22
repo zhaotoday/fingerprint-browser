@@ -2,6 +2,7 @@
 - [爬虫自动化之定制浏览器随机指纹](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1648410)
 - [chromium浏览器定制 | 高匿名爬虫随机指纹](https://blog.csdn.net/weixin_42557907/article/details/122798724)
 - [chromium浏览器定制 | 随机canvas画布](https://blog.csdn.net/weixin_42557907/article/details/123059379)
+- [List of Chromium Command Line Switches](https://peter.sh/experiments/chromium-command-line-switches/)
 
 #### 视频
 - [轻量级爬虫过风控指纹浏览器开发教程](https://www.bilibili.com/video/BV19i421f7x5/)
