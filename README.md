@@ -5,6 +5,7 @@
 - [List of Chromium Command Line Switches](https://peter.sh/experiments/chromium-command-line-switches/)
 
 #### 视频
+- [指纹浏览器专题](https://space.bilibili.com/172381477)
 - [轻量级爬虫过风控指纹浏览器开发教程](https://www.bilibili.com/video/BV19i421f7x5/)
 - [浏览器指纹](https://www.bilibili.com/video/BV1WH4y1n7qq/)
 - [chromium随机指纹浏览器定制-解决爬虫痛点](https://www.bilibili.com/video/BV1nM411P7k6/)
