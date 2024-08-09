@@ -6,4 +6,6 @@
 - 删除环境：DELETE /enviroments/${id}
 - 批量删除环境 DELETE /enviroments/batch/${id1},${id2}
 - 启动环境：POST /enviroments/do/open
+- 批量启动环境：POST /enviroments/do/open/batch/${id1},${id2}
 - 关闭环境：POST /enviroments/do/close
+- 批量关闭环境：POST /enviroments/do/close/batch/${id1},${id2}
