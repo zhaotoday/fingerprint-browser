@@ -5,4 +5,5 @@
 - 编辑环境：PUT /enviroments/${id}
 - 删除环境：DELETE /enviroments/${id}
 - 批量删除环境 DELETE /enviroments/batch
-- 启动环境：GET /enviroments/actions/start
+- 启动环境：POST /enviroments/do/open
+- 关闭环境：POST /enviroments/do/close
