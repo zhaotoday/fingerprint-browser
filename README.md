@@ -7,6 +7,7 @@
 - [chromium浏览器定制 | 高匿名爬虫随机指纹](https://blog.csdn.net/weixin_42557907/article/details/122798724)
 - [chromium浏览器定制 | 随机canvas画布](https://blog.csdn.net/weixin_42557907/article/details/123059379)
 - [List of Chromium Command Line Switches](https://peter.sh/experiments/chromium-command-line-switches/)
+- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 
 #### 视频
 - [指纹浏览器专题](https://space.bilibili.com/172381477)
