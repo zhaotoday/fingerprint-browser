@@ -23,6 +23,7 @@
 
 #### 资源集合
 - [awesome-fingerprinting](https://github.com/embeddinglayer/awesome-fingerprinting)
+- [untidetect-tools](https://github.com/TheGP/untidetect-tools)
 
 #### 开源
 - [browser-with-fingerprints](https://github.com/CheshireCaat/browser-with-fingerprints)
