@@ -40,6 +40,7 @@
 - [puppeteer-with-fingerprints](https://github.com/CheshireCaat/puppeteer-with-fingerprints)
 - [Top-antidetect-browser](https://github.com/meimeiblue01/best-antidetect-browser/blob/main/Top-antidetect-browser.md)
 - [chrome-fingerprints](https://github.com/Vinyzu/chrome-fingerprints)
+- [fingerprint-suite](https://github.com/apify/fingerprint-suite)
 
 #### 代理
 - [IP Cats](https://ip-cats.com/)
