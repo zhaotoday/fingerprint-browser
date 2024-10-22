@@ -21,6 +21,7 @@
 - [深入浏览器内核](https://www.bilibili.com/video/BV1tj411P7dF/)
 
 #### 开源
+- [selenium-with-fingerprints](https://github.com/CheshireCaat/selenium-with-fingerprints)
 - [ruyiBrowser](https://github.com/LoseNine/ruyiBrowser)
 - [Chrome Power](https://github.com/zmzimpl/chrome-power-app)
 - [Chrome Power](https://github.com/zmzimpl/chrome-power-chromium)
