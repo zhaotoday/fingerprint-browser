@@ -42,6 +42,7 @@
 - [Top-antidetect-browser](https://github.com/meimeiblue01/best-antidetect-browser/blob/main/Top-antidetect-browser.md)
 - [chrome-fingerprints](https://github.com/Vinyzu/chrome-fingerprints)
 - [fingerprint-suite](https://github.com/apify/fingerprint-suite)
+- [undetected-browser](https://github.com/AlloryDante/undetected-browser)
 
 #### 代理
 - [IP Cats](https://ip-cats.com/)
