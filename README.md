@@ -20,6 +20,9 @@
 - [【指纹浏览器】互联网运营必备隐藏身份工具](https://www.bilibili.com/video/BV195411y775/)
 - [深入浏览器内核](https://www.bilibili.com/video/BV1tj411P7dF/)
 
+#### 资源集合
+- [awesome-fingerprinting](https://github.com/embeddinglayer/awesome-fingerprinting)
+
 #### 开源
 - [browser-with-fingerprints](https://github.com/CheshireCaat/browser-with-fingerprints)
 - [selenium-with-fingerprints](https://github.com/CheshireCaat/selenium-with-fingerprints)
