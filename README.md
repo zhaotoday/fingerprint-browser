@@ -8,6 +8,7 @@
 - [chromium浏览器定制 | 随机canvas画布](https://blog.csdn.net/weixin_42557907/article/details/123059379)
 - [List of Chromium Command Line Switches](https://peter.sh/experiments/chromium-command-line-switches/)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
+- [CDP和Chrome](https://blog.csdn.net/daliucheng/article/details/136160807)
 
 #### 视频
 - [指纹浏览器专题](https://space.bilibili.com/172381477)
