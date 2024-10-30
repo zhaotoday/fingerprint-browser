@@ -9,6 +9,7 @@
 - [List of Chromium Command Line Switches](https://peter.sh/experiments/chromium-command-line-switches/)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [CDP和Chrome](https://blog.csdn.net/daliucheng/article/details/136160807)
+- [Web远程调试介绍](https://www.jianshu.com/p/2374d810aef0)
 
 #### 视频
 - [指纹浏览器专题](https://space.bilibili.com/172381477)
