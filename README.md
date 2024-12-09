@@ -10,6 +10,7 @@
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [CDP和Chrome](https://blog.csdn.net/daliucheng/article/details/136160807)
 - [Web远程调试介绍](https://www.jianshu.com/p/2374d810aef0)
+- [伪指纹浏览器开发的那些事](https://juejin.cn/post/7327642905245433891)
 
 #### 视频
 - [指纹浏览器专题](https://space.bilibili.com/172381477)
