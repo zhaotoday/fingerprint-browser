@@ -17,6 +17,7 @@
 - [Web远程调试介绍](https://www.jianshu.com/p/2374d810aef0)
 - [伪指纹浏览器开发的那些事](https://juejin.cn/post/7327642905245433891)
 - [你的浏览器，独一无二--解读浏览器指纹](https://juejin.cn/post/6850418118171475982)
+- [爬虫工具Botasaurus简介](https://blog.csdn.net/weixin_46846685/article/details/141282701)
 
 #### 视频
 - [指纹浏览器专题](https://space.bilibili.com/172381477)
