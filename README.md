@@ -2,10 +2,9 @@
 - [AdsPower](https://www.adspower.net/)
 - [MoreLogin](https://www.morelogin.com/)
 
-#### 文档
+#### 网址
 - [ChromeDriver 使用入门](https://developer.chrome.google.cn/docs/chromedriver/get-started?hl=zh-cn)
-
-#### 资源
+- [Selenium](https://www.selenium.dev/)
 - [下载 ChromeDriver（Chrome 115 及更高版本）](https://googlechromelabs.github.io/chrome-for-testing/)
 
 #### 文章
