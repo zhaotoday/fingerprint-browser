@@ -5,6 +5,9 @@
 #### 文档
 - [ChromeDriver 使用入门](https://developer.chrome.google.cn/docs/chromedriver/get-started?hl=zh-cn)
 
+#### 资源
+- [下载 ChromeDriver（Chrome 115 及更高版本）](https://googlechromelabs.github.io/chrome-for-testing/)
+
 #### 文章
 - [爬虫自动化之定制浏览器随机指纹](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1648410)
 - [chromium浏览器定制 | 高匿名爬虫随机指纹](https://blog.csdn.net/weixin_42557907/article/details/122798724)
