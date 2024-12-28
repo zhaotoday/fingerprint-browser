@@ -8,6 +8,7 @@
 - [ChromeDriver 使用入门](https://developer.chrome.google.cn/docs/chromedriver/get-started?hl=zh-cn)
 - [Selenium](https://www.selenium.dev/)
 - [下载 ChromeDriver（Chrome 115 及更高版本）](https://googlechromelabs.github.io/chrome-for-testing/)
+- [geckodriver](https://github.com/mozilla/geckodriver)
 
 #### 文章
 - [爬虫自动化之定制浏览器随机指纹](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1648410)
