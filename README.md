@@ -1,6 +1,7 @@
 #### 指纹浏览器
 - [AdsPower](https://www.adspower.net/)
 - [MoreLogin](https://www.morelogin.com/)
+- [Hubstudio](https://www.hubstudio.cn/)
 
 #### 网址
 - [ChromeDriver 使用入门](https://developer.chrome.google.cn/docs/chromedriver/get-started?hl=zh-cn)
