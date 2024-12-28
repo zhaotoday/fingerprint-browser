@@ -56,6 +56,7 @@
 - [neko](https://github.com/m1k1o/neko)
 
 #### 代理
+- [Proxy Seller](https://proxy-seller.com/zh/)
 - [IP Cats](https://ip-cats.com/)
 - [List of mobile proxies](https://github.com/TheGP/4g-proxies-providers)
 - [DataImpulse](https://dataimpulse.com/?aff=10601)
