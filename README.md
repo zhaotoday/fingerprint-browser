@@ -23,6 +23,7 @@
 - [爬虫工具Botasaurus简介](https://blog.csdn.net/weixin_46846685/article/details/141282701)
 
 #### 视频
+- [浏览器指纹是什么？14种指纹背后的技术原理](https://www.bilibili.com/video/BV1VmmNYAE53/)
 - [2024最新chromium指纹浏览器开发课程](https://www.bilibili.com/video/BV1zT421X768/)
 - [指纹浏览器专题](https://space.bilibili.com/172381477)
 - [轻量级爬虫过风控指纹浏览器开发教程](https://www.bilibili.com/video/BV19i421f7x5/)
