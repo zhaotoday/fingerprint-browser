@@ -42,6 +42,7 @@
 - [untidetect-tools](https://github.com/TheGP/untidetect-tools)
 
 #### 开源
+- [browser](https://github.com/mumuy/browser)
 - [fingerprint-chromium](https://github.com/adryfish/fingerprint-chromium)
 - [browser-with-fingerprints](https://github.com/CheshireCaat/browser-with-fingerprints)
 - [selenium-with-fingerprints](https://github.com/CheshireCaat/selenium-with-fingerprints)
