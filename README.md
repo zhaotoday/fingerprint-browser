@@ -44,6 +44,7 @@
 - [untidetect-tools](https://github.com/TheGP/untidetect-tools)
 
 #### 开源
+- [Camoufox](https://github.com/daijro/camoufox)
 - [browser](https://github.com/mumuy/browser)
 - [fingerprint-chromium](https://github.com/adryfish/fingerprint-chromium)
 - [browser-with-fingerprints](https://github.com/CheshireCaat/browser-with-fingerprints)
