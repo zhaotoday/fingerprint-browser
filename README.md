@@ -68,6 +68,7 @@
 - [undetected-browser](https://github.com/AlloryDante/undetected-browser)
 - [neko](https://github.com/m1k1o/neko)
 - [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)
+- [antidetect](https://github.com/brodev3/antidetect)
 
 #### 代理
 - [Proxy Seller](https://proxy-seller.com/zh/)
