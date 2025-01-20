@@ -12,6 +12,7 @@
 - [geckodriver](https://github.com/mozilla/geckodriver)
 - [Puppeteer 中文文档](https://puppeteer.bootcss.com/)
 - [Chrome 无头模式](https://developer.chrome.com/docs/chromium/headless?hl=zh-cn)
+- [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 
 #### 文章
 - [爬虫自动化之定制浏览器随机指纹](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1648410)
