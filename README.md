@@ -71,6 +71,7 @@
 - [neko](https://github.com/m1k1o/neko)
 - [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)
 - [antidetect](https://github.com/brodev3/antidetect)
+- [fingerprint-suite](https://github.com/apify/fingerprint-suite)
 
 #### 代理
 - [Proxy Seller](https://proxy-seller.com/zh/)
@@ -86,4 +87,3 @@
 - [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7)
 - [BrightData](https://get.brightdata.com/jdpda3d3pu8n)
 - [9proxy.com](https://9proxy.com/sign-up?inviteCode=9P_3YVqNdK8)
-- [fingerprint-suite](https://github.com/apify/fingerprint-suite)
