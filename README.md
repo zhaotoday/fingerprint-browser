@@ -45,6 +45,7 @@
 #### 资源集合
 - [awesome-fingerprinting](https://github.com/embeddinglayer/awesome-fingerprinting)
 - [untidetect-tools](https://github.com/TheGP/untidetect-tools)
+- [2025年排名前30的指纹浏览器汇总（最新整理）](https://github.com/pukaranda1/zhiwenliulanqi)
 
 #### 开源
 - [BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser)
