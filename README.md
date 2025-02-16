@@ -47,6 +47,7 @@
 - [untidetect-tools](https://github.com/TheGP/untidetect-tools)
 - [2025年排名前30的指纹浏览器汇总（最新整理）](https://github.com/pukaranda1/zhiwenliulanqi)
 - [9款最佳免费浏览器指纹测试工具](https://github.com/enqi996/free-zhiwen-browser)
+- [全球7大指纹浏览器排行榜：哪个最适合你？](https://github.com/atiharox35/fingerprint-browser-ranking)
 
 #### 开源
 - [BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser)
