@@ -15,6 +15,7 @@
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 
 #### 文章
+- [【NestJS全栈之旅】应用篇：通用爬虫服务三两事儿](https://juejin.cn/post/7434869636506435624)
 - [爬虫自动化之定制浏览器随机指纹](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1648410)
 - [chromium浏览器定制 | 高匿名爬虫随机指纹](https://blog.csdn.net/weixin_42557907/article/details/122798724)
 - [chromium浏览器定制 | 随机canvas画布](https://blog.csdn.net/weixin_42557907/article/details/123059379)
