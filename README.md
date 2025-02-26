@@ -53,6 +53,7 @@
 - [全球7大指纹浏览器排行榜：哪个最适合你？](https://github.com/atiharox35/fingerprint-browser-ranking)
 
 #### 开源
+- [ungoogled-chromium-windows](https://github.com/ungoogled-software/ungoogled-chromium-windows)
 - [BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser)
 - [Camoufox](https://github.com/daijro/camoufox)
 - [browser](https://github.com/mumuy/browser)
