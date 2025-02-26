@@ -54,6 +54,7 @@
 
 #### 开源
 - [ungoogled-chromium-windows](https://github.com/ungoogled-software/ungoogled-chromium-windows)
+- [chromium-win64](https://github.com/Hibbiki/chromium-win64)
 - [BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser)
 - [Camoufox](https://github.com/daijro/camoufox)
 - [browser](https://github.com/mumuy/browser)
