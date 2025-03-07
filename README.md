@@ -31,6 +31,7 @@
 - [这款比谷歌浏览器还干净、流畅的PC浏览器，你用过吗？](https://zhuanlan.zhihu.com/p/689246360)
 
 #### 视频
+- [我做出了指纹浏览器平替](https://www.bilibili.com/video/BV1bw9VYtEWm/)
 - [指纹浏览器，安卓模拟器，谁才是养号神器，平台账号风控和硬件伪装的六大层次](https://www.bilibili.com/video/BV1J2HWeLEcD/)
 - [浏览器指纹是什么？14种指纹背后的技术原理](https://www.bilibili.com/video/BV1VmmNYAE53/)
 - [2024最新chromium指纹浏览器开发课程](https://www.bilibili.com/video/BV1zT421X768/)
