@@ -86,6 +86,7 @@
 - [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)
 - [antidetect](https://github.com/brodev3/antidetect)
 - [fingerprint-suite](https://github.com/apify/fingerprint-suite)
+- [automa](https://github.com/AutomaApp/automa)
 
 #### 代理
 - [Proxy Seller](https://proxy-seller.com/zh/)
