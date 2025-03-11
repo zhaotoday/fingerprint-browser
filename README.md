@@ -58,6 +58,7 @@
 - [全球7大指纹浏览器排行榜：哪个最适合你？](https://github.com/atiharox35/fingerprint-browser-ranking)
 
 #### 开源
+- [Lightpanda Browser](https://github.com/lightpanda-io/browser)
 - [ungoogled-chromium-windows](https://github.com/ungoogled-software/ungoogled-chromium-windows)
 - [chromium-win64](https://github.com/Hibbiki/chromium-win64)
 - [BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser)
