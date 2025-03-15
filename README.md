@@ -89,6 +89,8 @@
 - [automa](https://github.com/AutomaApp/automa)
 
 #### 代理
+- [cliproxy](https://cliproxy.com/)
+- [青果网络](https://www.qg.net/product/proxyip.html)
 - [Proxy Seller](https://proxy-seller.com/zh/)
 - [IP Cats](https://ip-cats.com/)
 - [List of mobile proxies](https://github.com/TheGP/4g-proxies-providers)
