@@ -34,6 +34,9 @@
 #### B 站
 - [出海OldBaby](https://space.bilibili.com/3537111699426233)
 
+#### 知乎
+- [AdsPower指纹浏览器](https://www.zhihu.com/org/adspowerzhi-wen-liu-lan-qi)
+
 #### 视频
 - [我做出了指纹浏览器平替](https://www.bilibili.com/video/BV1bw9VYtEWm/)
 - [指纹浏览器，安卓模拟器，谁才是养号神器，平台账号风控和硬件伪装的六大层次](https://www.bilibili.com/video/BV1J2HWeLEcD/)
