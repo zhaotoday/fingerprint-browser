@@ -32,6 +32,7 @@
 - [这款比谷歌浏览器还干净、流畅的PC浏览器，你用过吗？](https://zhuanlan.zhihu.com/p/689246360)
 
 #### B 站
+- [AdsPower浏览器](https://space.bilibili.com/619999649)
 - [出海OldBaby](https://space.bilibili.com/3537111699426233)
 
 #### 知乎
