@@ -33,6 +33,7 @@
 
 #### B 站
 - [AdsPower浏览器](https://space.bilibili.com/619999649)
+- [比特指纹浏览器](https://space.bilibili.com/2018852957)
 - [出海OldBaby](https://space.bilibili.com/3537111699426233)
 
 #### 知乎
