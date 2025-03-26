@@ -94,6 +94,7 @@
 - [antidetect](https://github.com/brodev3/antidetect)
 - [fingerprint-suite](https://github.com/apify/fingerprint-suite)
 - [automa](https://github.com/AutomaApp/automa)
+- [XChrome](https://github.com/chanawudi/XChrome)
 
 #### 代理
 - [cliproxy](https://cliproxy.com/)
