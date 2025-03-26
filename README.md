@@ -95,6 +95,7 @@
 - [fingerprint-suite](https://github.com/apify/fingerprint-suite)
 - [automa](https://github.com/AutomaApp/automa)
 - [XChrome](https://github.com/chanawudi/XChrome)
+- [ip-info-api](https://github.com/ihmily/ip-info-api)
 
 #### 代理
 - [cliproxy](https://cliproxy.com/)
