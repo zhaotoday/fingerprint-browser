@@ -42,6 +42,7 @@
 - [AdsPower指纹浏览器](https://www.zhihu.com/org/adspowerzhi-wen-liu-lan-qi)
 
 #### 视频
+- [Chromium 定制](https://www.bilibili.com/video/BV1e7o2YTE5s)
 - [我做出了指纹浏览器平替](https://www.bilibili.com/video/BV1bw9VYtEWm/)
 - [指纹浏览器，安卓模拟器，谁才是养号神器，平台账号风控和硬件伪装的六大层次](https://www.bilibili.com/video/BV1J2HWeLEcD/)
 - [浏览器指纹是什么？14种指纹背后的技术原理](https://www.bilibili.com/video/BV1VmmNYAE53/)
