@@ -69,6 +69,7 @@
 - [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
 
 #### 开源
+- [miniblink49](https://github.com/weolar/miniblink49)
 - [Lightpanda Browser](https://github.com/lightpanda-io/browser)
 - [ungoogled-chromium-windows](https://github.com/ungoogled-software/ungoogled-chromium-windows)
 - [chromium-win64](https://github.com/Hibbiki/chromium-win64)
