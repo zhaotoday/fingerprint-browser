@@ -69,6 +69,7 @@
 - [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
 
 #### 开源
+- [cef](https://github.com/chromiumembedded/cef)
 - [miniblink](https://miniblink.net/index.html)
 - [miniblink49](https://github.com/weolar/miniblink49)
 - [Lightpanda Browser](https://github.com/lightpanda-io/browser)
