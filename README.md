@@ -15,6 +15,7 @@
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 
 #### 文章
+- [前端黑科技：浏览器指纹解析](https://juejin.cn/post/7437493978676002816)
 - [指纹浏览器开发教程](https://ebrower.com/easybrpcclass/gongnengjishu.html)
 - [Chromium源码学习（1）—— 拉取源码，编译](https://juejin.cn/post/7374231256115019813)
 - [chromium以及指纹浏览器的进阶](https://blog.csdn.net/PingGuoAiShangMaiD/article/details/140616410)
