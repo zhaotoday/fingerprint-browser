@@ -73,6 +73,7 @@
 - [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
 
 #### 开源
+- [iceraven-browser](https://github.com/fork-maintainers/iceraven-browser)
 - [DeviceJs](https://github.com/skillnull/DeviceJs)
 - [steel-browser](https://github.com/steel-dev/steel-browser)
 - [cef](https://github.com/chromiumembedded/cef)
