@@ -13,6 +13,7 @@
 - [Puppeteer 中文文档](https://puppeteer.bootcss.com/)
 - [Chrome 无头模式](https://developer.chrome.com/docs/chromium/headless?hl=zh-cn)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
+- [Chromium coding style](https://chromium.googlesource.com/chromium/src/+/main/styleguide/styleguide.md)
 
 #### 文章
 - [基于Node+HeadlessBrowser的浏览器自动化方案](https://juejin.cn/post/7497167199158796322)
