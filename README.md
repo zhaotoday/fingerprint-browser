@@ -16,6 +16,7 @@
 - [Chromium coding style](https://chromium.googlesource.com/chromium/src/+/main/styleguide/styleguide.md)
 
 #### 文章
+- [BotBrowser，绕过Captcha验证码工具的指纹浏览器](https://zhuanlan.zhihu.com/p/1895411741854266631)
 - [基于Node+HeadlessBrowser的浏览器自动化方案](https://juejin.cn/post/7497167199158796322)
 - [前端黑科技：浏览器指纹解析](https://juejin.cn/post/7437493978676002816)
 - [指纹浏览器开发教程](https://ebrower.com/easybrpcclass/gongnengjishu.html)
