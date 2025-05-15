@@ -14,6 +14,7 @@
 - [Chrome 无头模式](https://developer.chrome.com/docs/chromium/headless?hl=zh-cn)
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [Chromium coding style](https://chromium.googlesource.com/chromium/src/+/main/styleguide/styleguide.md)
+- [Chrome教程](https://www.javatiku.cn/chrome.html)
 
 #### 文章
 - [BotBrowser，绕过Captcha验证码工具的指纹浏览器](https://zhuanlan.zhihu.com/p/1895411741854266631)
