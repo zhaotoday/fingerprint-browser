@@ -17,6 +17,7 @@
 - [Chrome教程](https://www.javatiku.cn/chrome.html)
 
 #### 文章
+- [2025年最佳免费浏览器指纹测试工具](https://www.dailiproxy.com/best-free-browser-fingerprint-testing-tools/)
 - [BotBrowser，绕过Captcha验证码工具的指纹浏览器](https://zhuanlan.zhihu.com/p/1895411741854266631)
 - [基于Node+HeadlessBrowser的浏览器自动化方案](https://juejin.cn/post/7497167199158796322)
 - [前端黑科技：浏览器指纹解析](https://juejin.cn/post/7437493978676002816)
