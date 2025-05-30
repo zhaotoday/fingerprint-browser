@@ -76,6 +76,7 @@
 - [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
 
 #### 开源
+- [SeleniumBase](https://github.com/seleniumbase/SeleniumBase)
 - [undetectable-fingerprint-browser](https://github.com/itbrowser-net/undetectable-fingerprint-browser)
 - [chromium_fingerprint](https://github.com/xingzheseo/chromium_fingerprint)
 - [iceraven-browser](https://github.com/fork-maintainers/iceraven-browser)
