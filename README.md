@@ -15,6 +15,7 @@
 - [Mitigating Browser Fingerprinting in Web Specifications](https://w3c.github.io/fingerprinting-guidance/)
 - [Chromium coding style](https://chromium.googlesource.com/chromium/src/+/main/styleguide/styleguide.md)
 - [Chrome教程](https://www.javatiku.cn/chrome.html)
+- [内置 AI](https://developer.chrome.google.cn/docs/ai/built-in?hl=zh-cn)
 
 #### 文章
 - [2025年最佳免费浏览器指纹测试工具](https://www.dailiproxy.com/best-free-browser-fingerprint-testing-tools/)
