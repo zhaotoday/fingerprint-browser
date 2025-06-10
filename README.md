@@ -77,6 +77,7 @@
 - [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
 
 #### 开源
+- [MyIP](https://github.com/jason5ng32/MyIP)
 - [Chromium_FingerPrint_Tutorial](https://github.com/LoseNine/Chromium_FingerPrint_Tutorial)
 - [SeleniumBase](https://github.com/seleniumbase/SeleniumBase)
 - [undetectable-fingerprint-browser](https://github.com/itbrowser-net/undetectable-fingerprint-browser)
