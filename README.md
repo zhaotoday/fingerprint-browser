@@ -18,6 +18,7 @@
 - [内置 AI](https://developer.chrome.google.cn/docs/ai/built-in?hl=zh-cn)
 
 #### 文章
+- [Patchright 使用教程](https://blog.csdn.net/gitblog_01006/article/details/147006976)
 - [2025年最佳免费浏览器指纹测试工具](https://www.dailiproxy.com/best-free-browser-fingerprint-testing-tools/)
 - [BotBrowser，绕过Captcha验证码工具的指纹浏览器](https://zhuanlan.zhihu.com/p/1895411741854266631)
 - [基于Node+HeadlessBrowser的浏览器自动化方案](https://juejin.cn/post/7497167199158796322)
@@ -77,6 +78,7 @@
 - [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
 
 #### 开源
+- [patchright-nodejs](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs)
 - [MyIP](https://github.com/jason5ng32/MyIP)
 - [Chromium_FingerPrint_Tutorial](https://github.com/LoseNine/Chromium_FingerPrint_Tutorial)
 - [SeleniumBase](https://github.com/seleniumbase/SeleniumBase)
