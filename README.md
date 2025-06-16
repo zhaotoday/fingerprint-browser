@@ -138,3 +138,6 @@
 - [922proxy](https://www.922proxy.com/index.html?inviter_code=eac554c7)
 - [BrightData](https://get.brightdata.com/jdpda3d3pu8n)
 - [9proxy.com](https://9proxy.com/sign-up?inviteCode=9P_3YVqNdK8)
+
+#### 插件
+- [cookie-editor](https://github.com/Moustachauve/cookie-editor)
