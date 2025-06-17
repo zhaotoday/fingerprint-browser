@@ -18,6 +18,7 @@
 - [内置 AI](https://developer.chrome.google.cn/docs/ai/built-in?hl=zh-cn)
 
 #### 文章
+- [Chromium内核浏览器编译记（一）踩坑实录](https://www.jianshu.com/p/0b9922ae5b23)
 - [Patchright 使用教程](https://blog.csdn.net/gitblog_01006/article/details/147006976)
 - [2025年最佳免费浏览器指纹测试工具](https://www.dailiproxy.com/best-free-browser-fingerprint-testing-tools/)
 - [BotBrowser，绕过Captcha验证码工具的指纹浏览器](https://zhuanlan.zhihu.com/p/1895411741854266631)
