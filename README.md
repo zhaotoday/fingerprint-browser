@@ -89,6 +89,7 @@
 - [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
 
 #### 开源
+- [YSbrowser](https://github.com/selfshore/YSbrowser)
 - [by-chrome-app](https://github.com/bysstudio/by-chrome-app)
 - [ladybird](https://github.com/LadybirdBrowser/ladybird)
 - [patchright-nodejs](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs)
