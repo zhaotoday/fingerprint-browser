@@ -28,6 +28,7 @@
 - [内置 AI](https://developer.chrome.google.cn/docs/ai/built-in?hl=zh-cn)
 
 #### 文章
+- [魔改编译-永久解决selenium痕迹（一）](https://juejin.cn/post/7522303972755669044)
 - [浏览器指纹你知道吗](https://juejin.cn/post/7418793629597270066)
 - [Chromium内核浏览器编译记（一）踩坑实录](https://www.jianshu.com/p/0b9922ae5b23)
 - [Patchright 使用教程](https://blog.csdn.net/gitblog_01006/article/details/147006976)
