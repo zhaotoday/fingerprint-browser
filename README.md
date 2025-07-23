@@ -8,6 +8,9 @@
 - 网络营销、跨境电商从业者
 - 对隐私保护与反追踪技术感兴趣的开发者与研究者
 
+#### 项目地址
+https://github.com/zhaotoday/fingerprint-browser
+
 #### 指纹浏览器
 - [AdsPower](https://www.adspower.net/)
 - [MoreLogin](https://www.morelogin.com/)
