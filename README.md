@@ -31,6 +31,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [内置 AI](https://developer.chrome.google.cn/docs/ai/built-in?hl=zh-cn)
 
 #### 文章
+- [什么是浏览器指纹？2025年保护自己隐私的工具](https://github.com/liw10793/protect-privacy)
 - [浏览器指纹-探究前端如何识别用户设备](https://juejin.cn/post/7511915154032853018)
 - [魔改编译-永久解决selenium痕迹（一）](https://juejin.cn/post/7522303972755669044)
 - [浏览器指纹你知道吗](https://juejin.cn/post/7418793629597270066)
