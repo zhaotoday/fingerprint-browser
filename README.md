@@ -95,6 +95,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
 
 #### 开源
+- [creepjs](https://github.com/abrahamjuliot/creepjs)
 - [trustdevice-js](https://github.com/trustdecision/trustdevice-js)
 - [Speed-Test](https://github.com/openspeedtest/Speed-Test)
 - [speedtest](https://github.com/cloudflare/speedtest)
