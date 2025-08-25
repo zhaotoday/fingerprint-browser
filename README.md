@@ -30,6 +30,9 @@ https://github.com/zhaotoday/fingerprint-browser
 - [Chrome教程](https://www.javatiku.cn/chrome.html)
 - [内置 AI](https://developer.chrome.google.cn/docs/ai/built-in?hl=zh-cn)
 
+#### 资源导航
+- [2345 出海导航](https://www.chuhai2345.com/)
+
 #### 文章
 - [What is CreepJS Browser Fingerprint and How to Bypass It](https://scrapfly.io/blog/posts/browser-fingerprinting-with-creepjs)
 - [什么是浏览器指纹？2025年保护自己隐私的工具](https://github.com/liw10793/protect-privacy)
