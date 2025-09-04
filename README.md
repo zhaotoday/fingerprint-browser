@@ -101,6 +101,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
 
 #### 开源
+- [get-browser-fingerprint](https://github.com/damianobarbati/get-browser-fingerprint)
 - [browser-fingerprint](https://github.com/LeonKohli/browser-fingerprint)
 - [minbrowser](https://github.com/minbrowser/min)
 - [Browser-Manager](https://github.com/chenyk2016/Browser-Manager)
