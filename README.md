@@ -102,6 +102,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
 
 #### 开源
+- [Sparticuz/chromium](https://github.com/Sparticuz/chromium)
 - [chrlauncher](https://github.com/henrypp/chrlauncher)
 - [get-browser-fingerprint](https://github.com/damianobarbati/get-browser-fingerprint)
 - [browser-fingerprint](https://github.com/LeonKohli/browser-fingerprint)
