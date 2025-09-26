@@ -103,6 +103,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
 
 #### 开源
+- [chromium-ipc-sniffer](https://github.com/tomer8007/chromium-ipc-sniffer)
 - [mini_chromium](https://github.com/chromium/mini_chromium)
 - [Sparticuz/chromium](https://github.com/Sparticuz/chromium)
 - [chrlauncher](https://github.com/henrypp/chrlauncher)
