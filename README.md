@@ -20,6 +20,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [Gologin](https://gologin.com/)
 
 #### 网址
+- [Chromium中文文档](https://github.com/ahangchen/Chromium_doc_zh)
 - [ChromeDriver 使用入门](https://developer.chrome.google.cn/docs/chromedriver/get-started?hl=zh-cn)
 - [Selenium](https://www.selenium.dev/)
 - [下载 ChromeDriver（Chrome 115 及更高版本）](https://googlechromelabs.github.io/chrome-for-testing/)
