@@ -103,6 +103,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
 
 #### 开源
+- [brave-browser](https://github.com/brave/brave-browser)
 - [chromium-bidi](https://github.com/GoogleChromeLabs/chromium-bidi)
 - [pydoll](https://github.com/autoscrape-labs/pydoll)
 - [debugger-protocol-viewer](https://github.com/ChromeDevTools/debugger-protocol-viewer)
