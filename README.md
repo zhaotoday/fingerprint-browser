@@ -173,6 +173,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [ip-info-api](https://github.com/ihmily/ip-info-api)
 
 #### 代理
+- [tradeproxy](https://tradeproxy.net/)
 - [smartproxy](https://www.smartproxy.cn/)
 - [cliproxy](https://cliproxy.com/)
 - [青果网络](https://www.qg.net/product/proxyip.html)
