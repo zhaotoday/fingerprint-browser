@@ -36,6 +36,9 @@ https://github.com/zhaotoday/fingerprint-browser
 - [2345 出海导航](https://www.chuhai2345.com/)
 - [Hubstudio 资源导航](https://www.hubstudio.cn/zy/)
 
+#### 检测网站
+- [whoer](https://whoer.net/zh)
+
 #### 文章
 - [What is CreepJS Browser Fingerprint and How to Bypass It](https://scrapfly.io/blog/posts/browser-fingerprinting-with-creepjs)
 - [什么是浏览器指纹？2025年保护自己隐私的工具](https://github.com/liw10793/protect-privacy)
