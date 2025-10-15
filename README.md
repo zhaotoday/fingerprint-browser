@@ -40,6 +40,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [whoer](https://whoer.net/zh)
 
 #### 文章
+- [99%的前端不知道！Chrome底层竟藏着这些黑科技](https://juejin.cn/post/7479994388023640118)
 - [What is CreepJS Browser Fingerprint and How to Bypass It](https://scrapfly.io/blog/posts/browser-fingerprinting-with-creepjs)
 - [什么是浏览器指纹？2025年保护自己隐私的工具](https://github.com/liw10793/protect-privacy)
 - [浏览器指纹-探究前端如何识别用户设备](https://juejin.cn/post/7511915154032853018)
