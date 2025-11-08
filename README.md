@@ -40,6 +40,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [whoer](https://whoer.net/zh)
 
 #### 文章
+- [2025 年击败 BotBrowser：极验如何阻止跨平台指纹浏览器](https://blog.geetest.com/article/521fa5b494b8fc91d2065ed86bf88e50)
 - [浏览器指纹，一个挺实用的知识点](https://juejin.cn/post/7551732869267390503)
 - [99%的前端不知道！Chrome底层竟藏着这些黑科技](https://juejin.cn/post/7479994388023640118)
 - [What is CreepJS Browser Fingerprint and How to Bypass It](https://scrapfly.io/blog/posts/browser-fingerprinting-with-creepjs)
