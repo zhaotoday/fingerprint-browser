@@ -110,6 +110,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
 
 #### 开源
+- [browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting)
 - [undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
 - [Chrome-Manager](https://github.com/devilflasher/Chrome-Manager)
 - [speedtest](https://github.com/librespeed/speedtest)
