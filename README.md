@@ -181,6 +181,8 @@ https://github.com/zhaotoday/fingerprint-browser
 - [ip-info-api](https://github.com/ihmily/ip-info-api)
 
 #### 代理
+- [thordata](https://www.thordata.com/zh)
+- [blurpath](https://blurpath.cdjxhy.top/)
 - [tradeproxy](https://tradeproxy.net/)
 - [smartproxy](https://www.smartproxy.cn/)
 - [cliproxy](https://cliproxy.com/)
