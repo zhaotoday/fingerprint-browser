@@ -40,6 +40,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [whoer](https://whoer.net/zh)
 
 #### 文章
+- [Patchright Lite MCP](https://www.mcpworld.com/zh/detail/94e6c9f379d4382ccbcba837f58b7ce0)
 - [Chrome 多开管理工具迎来 2.0 重磅升级，IP 代理助手 V3 也焕新登场！](https://x.com/DevilflasherX/status/1916487254891274703)
 - [2025 年击败 BotBrowser：极验如何阻止跨平台指纹浏览器](https://blog.geetest.com/article/521fa5b494b8fc91d2065ed86bf88e50)
 - [浏览器指纹，一个挺实用的知识点](https://juejin.cn/post/7551732869267390503)
