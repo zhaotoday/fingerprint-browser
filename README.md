@@ -19,6 +19,9 @@ https://github.com/zhaotoday/fingerprint-browser
 - [OKBrowser](https://github.com/za515217965/OKBrowser)
 - [Gologin](https://gologin.com/)
 
+#### 浏览器
+- [hyperbrowser](https://www.hyperbrowser.ai/)
+
 #### 网址
 - [Chromium中文文档](https://github.com/ahangchen/Chromium_doc_zh)
 - [ChromeDriver 使用入门](https://developer.chrome.google.cn/docs/chromedriver/get-started?hl=zh-cn)
