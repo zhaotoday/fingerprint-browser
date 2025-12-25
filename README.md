@@ -115,6 +115,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
 
 #### 开源
+- [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers)
 - [HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
 - [helium](https://github.com/imputnet/helium)
 - [miniblink132](https://github.com/weolar/miniblink132)
