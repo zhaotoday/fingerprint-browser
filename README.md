@@ -115,6 +115,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
 
 #### 开源
+- [FingerPrintJSBrowser](https://github.com/LoseNine/FingerPrintJSBrowser)
 - [Fingerprint-Browser](https://github.com/gihugui/Fingerprint-Browser)
 - [digital-fingerprint](https://github.com/rakeshid03/digital-fingerprint)
 - [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers)
