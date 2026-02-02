@@ -199,6 +199,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [ip-info-api](https://github.com/ihmily/ip-info-api)
 
 #### 代理
+- [surfshark](https://surfshark.com/zh)
 - [全球代理](https://www.quanqiudaili.com/)
 - [thordata](https://www.thordata.com/zh)
 - [blurpath](https://blurpath.cdjxhy.top/)
