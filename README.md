@@ -116,6 +116,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
 
 #### 开源
+- [fpscanner](https://github.com/antoinevastel/fpscanner)
 - [firefox-fingerprintBrowser](https://github.com/LoseNine/firefox-fingerprintBrowser)
 - [kameleo](https://github.com/kameleo-io/kameleo)
 - [camoufox-profile-manager](https://github.com/polyackiy/camoufox-profile-manager)
