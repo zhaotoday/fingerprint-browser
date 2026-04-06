@@ -116,6 +116,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
 
 #### 开源
+- [camoufox-profile-manager](https://github.com/polyackiy/camoufox-profile-manager)
 - [bb-browser](https://github.com/epiral/bb-browser)
 - [Firefox-FingerPrint-Analyzer](https://github.com/LoseNine/Firefox-FingerPrint-Analyzer)
 - [browser-with-fingerprints](https://github.com/bablosoft/browser-with-fingerprints)
