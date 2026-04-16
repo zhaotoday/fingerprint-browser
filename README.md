@@ -22,6 +22,7 @@ https://github.com/zhaotoday/fingerprint-browser
 
 #### 浏览器
 - [hyperbrowser](https://www.hyperbrowser.ai/)
+- [tabbit](https://www.tabbit-ai.com/)
 
 #### 网址
 - [Chromium中文文档](https://github.com/ahangchen/Chromium_doc_zh)
