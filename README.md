@@ -117,7 +117,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
 
 #### 开源
-- [swiftproxy](https://www.swiftproxy.net/)
+- [Ant-Browser](https://github.com/black-ant/Ant-Browser)
 - [antidetect-browser](https://github.com/hisune/antidetect-browser)
 - [fpscanner](https://github.com/antoinevastel/fpscanner)
 - [firefox-fingerprintBrowser](https://github.com/LoseNine/firefox-fingerprintBrowser)
@@ -210,6 +210,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [ip-info-api](https://github.com/ihmily/ip-info-api)
 
 #### 代理
+- [swiftproxy](https://www.swiftproxy.net/)
 - [1024proxy](https://1024proxy.com/)
 - [surfshark](https://surfshark.com/zh)
 - [全球代理](https://www.quanqiudaili.com/)
