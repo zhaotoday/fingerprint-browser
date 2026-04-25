@@ -117,7 +117,6 @@ https://github.com/zhaotoday/fingerprint-browser
 - [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
 
 #### 开源
-- [proxy-seller](https://proxy-seller.com/zh/)
 - [playwright-with-fingerprints](https://github.com/bablosoft/playwright-with-fingerprints)
 - [user-agents](https://github.com/intoli/user-agents)
 - [Ant-Browser](https://github.com/black-ant/Ant-Browser)
@@ -213,6 +212,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [ip-info-api](https://github.com/ihmily/ip-info-api)
 
 #### 代理
+- [proxy-seller](https://proxy-seller.com/zh/)
 - [全球代理](https://www.quanqiudaili.com/)
 - [swiftproxy](https://www.swiftproxy.net/)
 - [1024proxy](https://1024proxy.com/)
