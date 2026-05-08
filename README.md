@@ -122,6 +122,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
 
 #### 开源
+- [ChromiumManager](https://github.com/vtumi/ChromiumManager)
 - [CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
 - [Firefox-FingerPrint-Analyzer](https://github.com/LoseNine/Firefox-FingerPrint-Analyzer)
 - [browserforge](https://github.com/daijro/browserforge)
