@@ -48,6 +48,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [browserscan](https://www.browserscan.net/)
 
 #### 文章
+- [源码级反爬虫 Chromium：深度解析 CloakBrowser 的 57 个 C++ 指纹补丁与下一代浏览器伪装架构](https://www.chenxutan.com/d/2291.html)
 - [Web Scraping with Camoufox: A Developer's Complete Guide](https://decodo.com/blog/web-scraping-guide-with-camoufox)
 - [超级简单的静态住宅 IP 配置教程](https://github.com/imqixia/howtoisp)
 - [使用 Patchright 绕过浏览器机器人检测](https://zhuanlan.zhihu.com/p/1951923313946363856)
