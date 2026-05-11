@@ -124,6 +124,7 @@ https://github.com/zhaotoday/fingerprint-browser
 
 #### 开源
 - [camofox-browser](https://github.com/redf0x1/camofox-browser)
+- [camofox-browser](https://github.com/redf0x1/camofox-browser)
 - [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store)
 - [ChromiumManager](https://github.com/vtumi/ChromiumManager)
 - [CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
