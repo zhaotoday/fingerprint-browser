@@ -123,6 +123,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
 
 #### 开源
+- [nodriver](https://github.com/ultrafunkamsterdam/nodriver)
 - [ispip](https://github.com/gsyunip/ispip)
 - [socks5-proxy](https://github.com/assez/socks5-proxy)
 - [Open-Anti-Browser](https://github.com/Wtcity22/Open-Anti-Browser)
