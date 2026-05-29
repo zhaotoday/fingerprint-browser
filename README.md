@@ -123,7 +123,6 @@ https://github.com/zhaotoday/fingerprint-browser
 - [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
 
 #### 开源
-- [ipwo](https://www.ipwo.net)
 - [donutbrowser](https://github.com/zhom/donutbrowser)
 - [nodriver](https://github.com/ultrafunkamsterdam/nodriver)
 - [ispip](https://github.com/gsyunip/ispip)
@@ -235,6 +234,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [ip-info-api](https://github.com/ihmily/ip-info-api)
 
 #### 代理
+- [ipwo](https://www.ipwo.net)
 - [proxy-seller](https://proxy-seller.com/zh/)
 - [全球代理](https://www.quanqiudaili.com/)
 - [swiftproxy](https://www.swiftproxy.net/)
