@@ -234,7 +234,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [ip-info-api](https://github.com/ihmily/ip-info-api)
 
 #### 代理
-- [ipwo](https://www.ipwo.net)
+- [IPWO爬虫住宅代理](https://www.ipwo.net)
 - [proxy-seller](https://proxy-seller.com/zh/)
 - [全球代理](https://www.quanqiudaili.com/)
 - [swiftproxy](https://www.swiftproxy.net/)
