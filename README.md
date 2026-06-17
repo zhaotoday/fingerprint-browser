@@ -263,4 +263,5 @@ https://github.com/zhaotoday/fingerprint-browser
 - [9proxy.com](https://9proxy.com/sign-up?inviteCode=9P_3YVqNdK8)
 
 #### 插件
+- [Chrome-proxy-helper](https://github.com/henices/Chrome-proxy-helper)
 - [cookie-editor](https://github.com/Moustachauve/cookie-editor)
