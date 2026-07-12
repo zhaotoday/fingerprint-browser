@@ -12,8 +12,6 @@
 https://github.com/zhaotoday/fingerprint-browser
 
 #### 指纹浏览器
-- [MoreLogin](https://www.morelogin.com/)
-- [Hubstudio](https://www.hubstudio.cn/)
 - [AdsPower](https://www.adspower.net/)
 - [比特浏览器](https://www.bitbrowser.cn/)
 - [OKBrowser](https://github.com/za515217965/OKBrowser)
