@@ -12,12 +12,12 @@
 https://github.com/zhaotoday/fingerprint-browser
 
 #### 指纹浏览器
+- [Roxy 浏览器](https://roxybrowser.cn/invite/9PM9BX)
 - [AdsPower](https://www.adspower.net/)
 - [比特浏览器](https://www.bitbrowser.cn/)
 - [OKBrowser](https://github.com/za515217965/OKBrowser)
 - [Gologin](https://gologin.com/)
 - [Wade X](https://wade.is/)
-- [roxybrowser](https://roxybrowser.com/)
 
 #### 浏览器
 - [hyperbrowser](https://www.hyperbrowser.ai/)
