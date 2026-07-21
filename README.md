@@ -12,6 +12,7 @@
 https://github.com/zhaotoday/fingerprint-browser
 
 #### 指纹浏览器
+- [紫鸟浏览器](https://ziniao.com/sharelinks/?from=17846400491513&activity_id=114)
 - [Roxy 浏览器](https://roxybrowser.cn/invite/9PM9BX)
 - [AdsPower](https://www.adspower.net/share/wGDT4O)
 - [比特浏览器](https://www.bitbrowser.cn/)
