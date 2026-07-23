@@ -239,6 +239,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [ip-info-api](https://github.com/ihmily/ip-info-api)
 
 #### 代理
+- [Rola IP](https://rola-ip.co/?code=05368MWA)
 - [IPWO爬虫住宅代理](https://www.ipwo.net)
 - [proxy-seller](https://proxy-seller.com/zh/)
 - [全球代理](https://www.quanqiudaili.com/)
