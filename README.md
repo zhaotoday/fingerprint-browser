@@ -29,6 +29,9 @@ https://github.com/zhaotoday/fingerprint-browser
 - [MoreLogin](https://www.morelogin.com/)：老牌国产反检测浏览器，按需自定义环境数量购买，还提供云手机 RPA（可扩展账号农场）。套餐：免费版 $0（2 环境 + 2 席位）；Pro 版 $9/月（$5.4/月按年，40% 折扣，环境数按需选）；Custom 定制。云手机按分钟计费 $0.006/分钟（每日封顶 $1.5）。支持 PayPal、信用卡、Coinbase 等支付。
 - [ixBrowser](https://www.ixbrowser.com/)：主打**永久免费且环境数量无上限**的反检测浏览器。套餐：免费版 $0（无限环境、2 席位、每日创建 10 个/开启 100 个）；Professional $3.99/月（20 席位、每日 100 创建/1000 开启、含 API + 同步器）；Business $9.99/月（50 席位）；更高档 $19.99/月（150 席位、批量导入）。注意：免费版每日创建/开启有上限，API 需付费版；仅支持 Windows/macOS，部分参数（如 GPU）遮蔽不全。
 - [NSTBrowser](https://www.nstbrowser.io/)：较新的反检测浏览器，主打**云端 Browserless + RPA/SDK/API 自动化**（兼容 Puppeteer/Playwright/Selenium），环境数量无上限、按每日启动次数计费。套餐：免费版 $0（每日 10 次启动、2 席位、10 小时 Browserless）；Professional $29.9/月（每日 3000 次启动、无限席位、1000 小时 Browserless）；Enterprise $59.9/月（每日 10 万次启动、2500 小时）；超量按 $0.01/次计费；季付 9 折、年付 6 折。
+- [HubStudio](https://www.hubstudio.cn/)：紫讯科技旗下"指纹浏览器 + 云手机"出海方案，累计服务 50 万+ 用户，中文场景适配好（Shopee/TikTok Shop/Lazada/Temu/拼多多跨境），支持 Windows/macOS。最大特色是**所有套餐环境数量与成员数均不限**，主要按"每日环境打开次数"分档：免费版 ¥0（每日 20 次，含指纹隔离、账号导入、插件导入）；VIP ¥99/月起（每日 500–2000 次，解锁数据导出、API、窗口同步、批量操作）；SVIP ¥288/月起（每日 3000–50 万次，含专属客服/顾问）；企业定制。下载客户端最低约 6 折，年付 7–8 折。指纹精度 BrowserScan 约 86–88（与 AdsPower 同级）。
+- [DICloak](https://dicloak.cn/)：2026 年性价比新黑马，界面简洁、定价激进，支持指纹定制、RPA 自动化、窗口同步、团队协作。套餐：免费版 $0（5 环境、每日打开 15 次）；基础版 $8/月（$4.8/月按年，100 环境、批量操作与数据同步）；高阶版 $28.8/月（$17.28/月按年，全功能 + RPA + 设备多登）；共享版+ $138/月（$82.8/月按年，成员数不限，适合中大型团队）。
+- [MostLogin](https://www.mostlogin.com/)：支持多内核、指纹自定义细，偏技术党，提供"指纹浏览器 + 云手机"。2026 年正处于从先行者计划转向正式订阅期（先行期功能 100% 免费）。套餐：基础版（10 配置）；团队版 $2.1–3/月（20–500 配置）；专业版 $49/月起（600–10000 配置）；企业版 $385/月起（1 万+ 配置）。按环境/设备可另按天/按需计费（环境约 $0.02–0.03/24 小时，设备按需 $0.1/15 分钟）。
 
 ##### 国际厂商（英文界面为主，海外团队常用）
 
@@ -46,6 +49,8 @@ https://github.com/zhaotoday/fingerprint-browser
 - [GhostBrowser](https://ghostbrowser.com/)：偏**多会话生产力工具**而非严格意义的反检测浏览器（指纹遮蔽较弱），适合多账号快速切换。套餐：免费 4 环境；付费约 $21/月起。
 - [VektorT13](https://detect.expert/)：基于**虚拟机**的高端反欺诈/反检测系统（面向专业反欺诈测试），非订阅制。个人版按反欺诈系统复杂度定价，约 $1800–14000 不等（含预置 preset）；前 2 台设备免费，超出每台 $150/月。
 - [Bablosoft (FingerprintSwitcher / BAS)](https://bablosoft.com/)：老牌浏览器自动化生态，含免费的 BrowserAutomationStudio（可视化编程 + 多线程）与 FingerprintSwitcher 指纹库，配合 `puppeteer-with-fingerprints` 使用，**是少数支持伪造 Canvas（PerfectCanvas）的方案**（PerfectCanvas 较慢，免费额度每日约 30–40 个，重度使用需买 CustomServer）。定价：免费版有请求频率限制；Premium $30/1 个月、$60/3 个月。
+- [Linken Sphere](https://ls.app/)：基于 Chromium 的高端反检测浏览器，内核更新极快，主打真实指纹与稳定隔离，面向资深操盘手、流量套利与广告账号运营，按"会话数"计费（并发启动不限）。套餐：免费版 $0（5 会话，无时限）；Pure $30/月（30 会话，云同步/养号/多开）；Light $90/月（150 会话，含移动端模拟、100 免费代理）；Pro $160/月（500 会话、10 席位、本地 API、300 免费代理）；Premium $300/月（1000 会话、无限席位、专属经理、1000 免费代理）。6 个月 9 折、年付 8 折。注意：代理/账号等资源需另购（Light 档起才含免费代理）。
+- [CloakBrowser](https://cloakbrowser.dev/)：面向开发者的**开源隐身 Chromium**（MIT 包装器，`pip install` / `npm install` 三行代码即可用），在 C++ 源码层做 58+ 项指纹修改（Canvas/WebGL/音频/字体/GPU/WebRTC 等），可直接替换 Playwright/Puppeteer，实测可过 Cloudflare Turnstile、FingerprintJS、BrowserScan。采用双层分发：Free 层（旧版内核如 v146，永久免费、无用量限制、单并发）；Pro 订阅（最新内核 + 更频繁补丁、多并发 5/20/200/2000+ 会话，分 Solo/Team/Business 档，7 天试用，具体价见官网）。支持 Linux/Windows/macOS。适合爬虫、自动化与 AI Agent。
 
 #### 云手机
 - [VMOS 云手机](https://www.vmoscloud.com/invite/vmosagol49lj)
