@@ -328,3 +328,4 @@ https://github.com/zhaotoday/fingerprint-browser
 #### 插件
 - [Chrome-proxy-helper](https://github.com/henices/Chrome-proxy-helper)
 - [cookie-editor](https://github.com/Moustachauve/cookie-editor)
+- [VanishMe](https://github.com/XiNian-dada/VanishMe)
