@@ -368,6 +368,13 @@ code {
   color: var(--text-2);
 }
 
+.hero__cta {
+  margin-top: var(--s-2);
+  font-size: 14px;
+  color: var(--accent);
+}
+.hero__cta strong { font-weight: 700; }
+
 .search {
   position: relative;
   display: flex;
@@ -888,21 +895,6 @@ code {
    Footer
    -------------------------------------------------------------------------- */
 
-.cta-banner {
-  max-width: var(--wrap);
-  margin: 0 auto var(--s-5);
-  padding: var(--s-3) var(--s-4);
-  border-radius: var(--r-card);
-  background: linear-gradient(135deg, #4F46E5 0%, #6366F1 100%);
-  text-align: center;
-}
-.cta-banner__text {
-  margin: 0;
-  font-size: 15px;
-  line-height: 1.7;
-  color: #fff;
-}
-.cta-banner__text strong { color: #fff; font-weight: 700; }
 
 .footer {
   border-top: 1px solid var(--border);
