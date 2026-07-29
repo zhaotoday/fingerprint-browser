@@ -35,7 +35,8 @@ SITE_DESC_TEMPLATE = (
     "帮助跨境电商与开发者快速选型。"
 )
 KEYWORDS = (
-    "指纹浏览器,防关联浏览器,反检测浏览器,antidetect browser,多账号管理,浏览器指纹,"
+    "指纹浏览器,指纹浏览器有哪些,跨境指纹浏览器,防关联浏览器,反检测浏览器,"
+    "antidetect browser,多账号管理,浏览器指纹,跨境电商浏览器,指纹浏览器推荐,"
     "AdsPower,Roxy浏览器,紫鸟浏览器,Multilogin,Camoufox,住宅代理,BrowserScan,跨境电商"
 )
 
@@ -645,7 +646,7 @@ def main() -> None:
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>{SITE_NAME} - {SITE_TAGLINE}｜{vendor_count} 款产品对比与开源导航</title>
+<title>指纹浏览器有哪些？{vendor_count} 款跨境指纹浏览器推荐与开源资源合集</title>
 <meta name="description" content="{html.escape(site_desc, quote=True)}">
 <meta name="keywords" content="{KEYWORDS}">
 <meta name="author" content="zhaotoday">
@@ -699,7 +700,7 @@ def main() -> None:
         </svg>
       </span>
       <span class="brand__text">
-        <strong>指纹浏览器资源库</strong>
+        <strong>指纹浏览器资源合集</strong>
         <span>Fingerprint Browser Hub</span>
       </span>
     </a>
@@ -778,6 +779,12 @@ def main() -> None:
     </div>
   </div>
 </main>
+
+<div class="cta-banner">
+  <p class="cta-banner__text">
+    <strong>专业接单</strong>：本人主攻浏览器与云手机生态应用开发，有需求的大佬请私聊 QQ：<strong>6421664</strong>。
+  </p>
+</div>
 
 <footer class="footer">
   <div class="footer__inner">
