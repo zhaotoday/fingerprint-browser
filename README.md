@@ -182,6 +182,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [antidetect-browser](https://github.com/hisune/antidetect-browser)
 - [social-browser](https://github.com/absunstar/social-browser)
 - [Open-Anti-Browser](https://github.com/Wtcity22/Open-Anti-Browser)
+- [OpenBrowser](https://github.com/lyu0805/OpenBrowser)
 
 ##### 指纹 Chromium / 内核源码级定制
 - [fingerprint-chromium](https://github.com/adryfish/fingerprint-chromium)
