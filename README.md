@@ -121,12 +121,14 @@ https://github.com/zhaotoday/fingerprint-browser
 - [这款比谷歌浏览器还干净、流畅的PC浏览器，你用过吗？](https://zhuanlan.zhihu.com/p/689246360)
 
 #### B 站
+- [Roxy 浏览器](https://space.bilibili.com/3690978955233294?spm_id_from=333.337.0.0)
 - [AdsPower浏览器](https://space.bilibili.com/619999649)
 - [比特指纹浏览器](https://space.bilibili.com/2018852957)
 - [Hubstudio](https://space.bilibili.com/2136477373)
 - [出海OldBaby](https://space.bilibili.com/3537111699426233)
 
 #### 知乎
+- [Roxy 浏览器](https://www.zhihu.com/people/roxybrowser)
 - [AdsPower指纹浏览器](https://www.zhihu.com/org/adspowerzhi-wen-liu-lan-qi)
 
 #### 视频
