@@ -155,6 +155,8 @@ Patchright 还修复了 Playwright 代码库中的一些通用泄露点，主要
 
 ### 安装
 
+**Python（PyPI）：**
+
 ```bash
 # 安装 Patchright（PyPI）
 pip install patchright
@@ -164,6 +166,19 @@ patchright install chromium
 
 # 可选：安装真实 Chrome（官方推荐配合 channel="chrome" 使用）
 patchright install chrome
+```
+
+**Node.js（NPM）：**
+
+```bash
+# 安装 Patchright（NPM）
+npm i patchright
+
+# 安装 Chromium 驱动（标准流程）
+npx patchright install chromium
+
+# 可选：安装真实 Chrome（官方推荐配合 channel: "chrome" 使用）
+npx patchright install chrome
 ```
 
 > 版本号与 Playwright 保持一致（如 `1.x.y`），Playwright 每发新版本，Patchright 都会跟进打补丁。生产环境建议**锁定版本**，升级时留意兼容性。
@@ -199,6 +214,23 @@ async def main():
 asyncio.run(main())
 ```
 
+### 最小示例（Node.js）
+
+```js
+// 只需把 import 换成 patchright，其余与 Playwright 完全一致
+const { chromium } = require('patchright');
+
+(async () => {
+  const browser = await chromium.launch();
+  const page = await browser.newPage();
+  await page.goto('http://playwright.dev');
+  await page.screenshot({ path: `example-${chromium.name()}.png` });
+  await browser.close();
+})();
+```
+
+> ESM / TypeScript 里也可以写成 `import { chromium } from 'patchright';`。
+
 ---
 
 ## 六、官方最佳实践：真实 Chrome + 不注入指纹
@@ -228,6 +260,32 @@ async def stealth_browser_example():
 
 asyncio.run(stealth_browser_example())
 ```
+
+**Node.js 版：**
+
+```js
+const { chromium } = require('patchright');
+
+(async () => {
+  // launchPersistentContext 第一个参数就是 userDataDir
+  const context = await chromium.launchPersistentContext('./user_data', {
+    channel: 'chrome',   // 使用本地真实 Chrome，而非内置 Chromium
+    headless: false,     // 有头模式特征更少，官方推荐
+    viewport: null,      // 等价于 Python 的 no_viewport=True，不固定视口
+    // ⚠️ 不要传 userAgent
+    // ⚠️ 不要传自定义 headers
+  });
+
+  const page = await context.newPage();
+  await page.goto('https://bot.sannysoft.com/');
+  const webdriver = await page.evaluate('navigator.webdriver');
+  console.log(`navigator.webdriver = ${webdriver}`); // 期望：undefined
+  await page.screenshot({ path: 'result.png' });
+  await context.close();
+})();
+```
+
+> 对照记忆：Python 的 `no_viewport=True` 在 Node.js 里是 `viewport: null`；`user_data_dir=...` 在 Node.js 里是 `launchPersistentContext` 的第一个位置参数。
 
 ### 为什么推荐 `channel="chrome"` 而非内置 Chromium？
 
@@ -268,7 +326,21 @@ result = await page.evaluate(
 )
 ```
 
-支持该参数的方法：`Page.evaluate` / `Frame.evaluate` / `Locator.evaluate` / `Worker.evaluate` / `JSHandle.evaluate`，以及对应的 `evaluate_handle` 和 `Locator.evaluate_all`。参数默认值为 `True`（隔离上下文）。
+**Node.js 版**（参数名为驼峰 `isolatedContext`）：
+
+```js
+// 默认在隔离上下文执行（更隐蔽，但访问不到主世界变量）
+await page.evaluate('navigator.webdriver');
+
+// 需要访问页面主世界变量时，显式切到 Main world
+const result = await page.evaluate(
+  'window.fpPromise.then(fp => fp.get())',
+  undefined,           // arg：无参数时占位
+  { isolatedContext: false }, // 关键参数
+);
+```
+
+支持该参数的方法：`Page.evaluate` / `Frame.evaluate` / `Locator.evaluate` / `Worker.evaluate` / `JSHandle.evaluate`，以及对应的 `evaluate_handle`（Node.js：`evaluateHandle`）和 `Locator.evaluate_all`（Node.js：`Locator.evaluateAll`）。参数默认值为 `True` / `true`（隔离上下文）；注意 Python 用 `isolated_context`（蛇形），Node.js 用 `isolatedContext`（驼峰）。
 
 > 说明：掘金原文示例里用默认（隔离）上下文去读取 `window.fpPromise`，实际会因为主世界变量不可见而失败——正确做法是加上 `isolated_context=False`。
 
@@ -314,7 +386,45 @@ async def upload_with_saved_cookie(cookie_file: str):
         await context.close()
 ```
 
-> 💡 建议：既然官方最佳实践本就推荐 `launch_persistent_context`，登录态会直接落在 `user_data_dir` 里，很多场景下**不必再手动导出 / 导入 Cookie**，直接复用 profile 更简单也更"像真人"。
+**Node.js 版：**
+
+```js
+const fs = require('fs');
+const path = require('path');
+const { chromium } = require('patchright');
+
+async function loadCookies(context, cookieFile) {
+  if (!fs.existsSync(cookieFile)) return false;
+  const cookies = JSON.parse(fs.readFileSync(cookieFile, 'utf-8'));
+  await context.addCookies(cookies);
+  return true;
+}
+
+async function uploadWithSavedCookie(cookieFile) {
+  // 推荐直接用持久化上下文，天然复用登录态，无需手动搬运 Cookie
+  const context = await chromium.launchPersistentContext('./profile', {
+    channel: 'chrome',
+    headless: false,
+    viewport: null,
+  });
+
+  // 若仍需从文件恢复 Cookie：
+  if (!(await loadCookies(context, cookieFile))) {
+    throw new Error('Cookie 文件不存在，请先登录');
+  }
+
+  const page = await context.newPage();
+  await page.goto('https://creator.douyin.com/');
+  await page.waitForTimeout(2000);
+  if (page.url().includes('login')) {
+    throw new Error('Cookie 已失效，需要重新登录');
+  }
+  // ... 后续上传操作
+  await context.close();
+}
+```
+
+> 💡 建议：既然官方最佳实践本就推荐 `launch_persistent_context` / `launchPersistentContext`，登录态会直接落在 `user_data_dir` / `userDataDir` 里，很多场景下**不必再手动导出 / 导入 Cookie**，直接复用 profile 更简单也更"像真人"。
 
 ---
 
