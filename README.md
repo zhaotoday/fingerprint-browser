@@ -302,6 +302,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [Chromium_FingerPrint_Tutorial](https://github.com/LoseNine/Chromium_FingerPrint_Tutorial)
 - [awesome-anti-detect](https://github.com/pencil20388-eng/awesome-anti-detect)
 - [Top-antidetect-browser](https://github.com/meimeiblue01/best-antidetect-browser/blob/main/Top-antidetect-browser.md)
+- [AntidetectBrowser](https://github.com/Abao130/AntidetectBrowser)
 
 #### 代理
 - [Rola IP](https://rola-ip.co/?code=05368MWA)
