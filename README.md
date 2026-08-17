@@ -341,3 +341,4 @@ https://github.com/zhaotoday/fingerprint-browser
 - [awesome-anti-detect](https://github.com/pencil20388-eng/awesome-anti-detect)
 - [invisible_firefox](https://github.com/feder-cr/invisible_firefox)
 - [jichangtizi-tuijian](https://github.com/Abao130/jichangtizi-tuijian)
+- [xingjiabijichang](https://github.com/Abao130/xingjiabijichang)
