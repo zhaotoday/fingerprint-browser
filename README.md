@@ -336,3 +336,8 @@ https://github.com/zhaotoday/fingerprint-browser
 - [Chrome-proxy-helper](https://github.com/henices/Chrome-proxy-helper)
 - [cookie-editor](https://github.com/Moustachauve/cookie-editor)
 - [VanishMe](https://github.com/XiNian-dada/VanishMe)
+
+#### 其他未整理
+- [awesome-anti-detect](https://github.com/pencil20388-eng/awesome-anti-detect)
+- [invisible_firefox](https://github.com/feder-cr/invisible_firefox)
+- [jichangtizi-tuijian](https://github.com/Abao130/jichangtizi-tuijian)
