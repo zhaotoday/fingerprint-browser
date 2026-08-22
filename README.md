@@ -338,6 +338,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [VanishMe](https://github.com/XiNian-dada/VanishMe)
 
 #### 其他未整理
+- [xl-browser](https://github.com/XiaoLop/xl-browser)
 - [invisible_firefox](https://github.com/feder-cr/invisible_firefox)
 - [jichangtizi-tuijian](https://github.com/Abao130/jichangtizi-tuijian)
 - [xingjiabijichang](https://github.com/Abao130/xingjiabijichang)
