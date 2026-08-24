@@ -338,6 +338,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [VanishMe](https://github.com/XiNian-dada/VanishMe)
 
 #### 其他未整理
+- [persona-studio](https://github.com/TechQaiser/persona-studio)
 - [camofox-browser](https://github.com/jo-inc/camofox-browser)
 - [xl-browser](https://github.com/XiaoLop/xl-browser)
 - [invisible_firefox](https://github.com/feder-cr/invisible_firefox)
