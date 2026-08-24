@@ -338,6 +338,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [VanishMe](https://github.com/XiNian-dada/VanishMe)
 
 #### 其他未整理
+- [clearcote-browser](https://github.com/clearcotelabs/clearcote-browser)
 - [anti-detect-browser-tools-tech-comparison](https://github.com/zhaotoday/anti-detect-browser-tools-tech-comparison)
 - [CloakBrowserDesktop](https://github.com/yt2399/CloakBrowserDesktop)
 - [persona-studio](https://github.com/TechQaiser/persona-studio)
