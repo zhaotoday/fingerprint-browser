@@ -338,6 +338,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [VanishMe](https://github.com/XiNian-dada/VanishMe)
 
 #### 其他未整理
+- [CloakBrowserDesktop](https://github.com/yt2399/CloakBrowserDesktop)
 - [persona-studio](https://github.com/TechQaiser/persona-studio)
 - [camofox-browser](https://github.com/jo-inc/camofox-browser)
 - [xl-browser](https://github.com/XiaoLop/xl-browser)
