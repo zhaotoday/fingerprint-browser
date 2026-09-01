@@ -336,6 +336,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [VanishMe](https://github.com/XiNian-dada/VanishMe)
 
 #### 其他未整理
+- [BrowseForge](https://github.com/nczz/BrowseForge)
 - [UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher)
 - [clearcote-browser](https://github.com/clearcotelabs/clearcote-browser)
 - [anti-detect-browser-tools-tech-comparison](https://github.com/zhaotoday/anti-detect-browser-tools-tech-comparison)
