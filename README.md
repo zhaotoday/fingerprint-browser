@@ -336,6 +336,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [VanishMe](https://github.com/XiNian-dada/VanishMe)
 
 #### 其他未整理
+- [ovobrowser](https://github.com/ovobrowsersupport/ovobrowser)
 - [fury-antidetect-browser](https://github.com/furyteamtop/fury-antidetect-browser)
 - [Camouflow](https://github.com/Tort1k558/Camouflow)
 - [obscura](https://github.com/h4ckf0r0day/obscura)
