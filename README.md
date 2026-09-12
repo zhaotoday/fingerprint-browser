@@ -336,6 +336,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [VanishMe](https://github.com/XiNian-dada/VanishMe)
 
 #### 其他未整理
+- [obscura](https://github.com/h4ckf0r0day/obscura)
 - [ShardBrowser](https://github.com/ProxyShard/ShardBrowser)
 - [BrowseForge](https://github.com/nczz/BrowseForge)
 - [UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher)
