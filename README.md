@@ -336,6 +336,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [VanishMe](https://github.com/XiNian-dada/VanishMe)
 
 #### 其他未整理
+- [antibrow](https://github.com/antibrow/antibrow)
 - [browsers-benchmark](https://github.com/techinz/browsers-benchmark)
 - [awesome-vpn](https://github.com/awesome-vpn/awesome-vpn)
 - [ovobrowser](https://github.com/ovobrowsersupport/ovobrowser)
