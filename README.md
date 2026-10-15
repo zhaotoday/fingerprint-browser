@@ -34,6 +34,7 @@ https://github.com/zhaotoday/fingerprint-browser
 
 ##### 国际厂商（英文界面为主，海外团队常用）
 
+- [GoUndetected](https://goundetected.io/)：美国 Wyoming LLC 的多会话 antidetect 浏览器（Windows/macOS），每配置独立指纹；自有 AS 的静态 ISP 代理（HTTP/SOCKS5，美/乌等地），按 IP 月费约 $3.00→$2.20（量大更低）。套餐：Starter $6/月（5 配置）、Basic $39/月（50）、Team $69/月起、Unlimited $699/月；另有 REST API 与 Puppeteer/Playwright CDP SDK（`@goundetected/sdk`）。7 天试用。
 - [Gologin](https://gologin.com/)：云端存储、跨设备同步，最佳性价比之一，适合中小团队与远程办公（国内使用需注意网络）。套餐：免费 3 环境；Professional $24/月(年付)/$49/月（100 环境）；Business $49–99/月（300 环境）；Enterprise $99–199/月（1000 环境）。
 - [Wade X](https://wade.is/)：基于 Chromium 150 的反检测浏览器，主打真实设备指纹 + 完整隔离 + 移动端(Android/iOS)模拟 + 快速 API，代理内置于浏览器环境统一管理。套餐：Private $10/月（10 环境）；Pro $30/月起（30+ 环境）；Enterprise $300/月起（1000+ 环境，定制限额与专属引导）。半年付省 10%、年付省 20%；优惠码 `FULLACCESS` 可享 7 天全功能试用，支持加密货币支付。
 - [Multilogin](https://multilogin.com/)：企业级、指纹精度与稳定性天花板，自带住宅代理流量与移动端模拟，适合高价值账号与大型团队。2026 年 7 月起套餐改为打包制并新增永久免费版：免费版（5 个云端浏览器/移动环境、一次性 200MB 代理流量、无需信用卡）；付费版 $7.08/月起（年付）；Pro 10 €9/月（10 环境 + 1GB 代理）、Pro 100 约 €49/月（100 环境 + 10GB 代理）；Business 300 起，企业版联系销售。超量代理按 €3–7.08/GB 计费。
