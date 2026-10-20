@@ -1,8 +1,8 @@
 # 指纹浏览器（防关联浏览器）资源整理
 
-本项目持续收集与整理指纹浏览器（防关联浏览器）的主流产品、套餐价格与实用资源，帮助你快速选型、少走弯路。
+本项目收集整理指纹浏览器（防关联浏览器）的主流产品、套餐价格与相关资源，供选型参考。
 
-指纹浏览器又称防关联浏览器，通过为每个账号隔离独立的浏览器指纹（Canvas、WebGL、字体、硬件等）、Cookies 与 IP 环境，让平台把多个账号识别为互不相关的真实用户，从而降低多账号运营中的关联封号风险。常见于跨境电商、广告投放、社媒矩阵、联盟营销与 Web3 等场景。
+指纹浏览器又称防关联浏览器，通过为每个账号隔离独立的浏览器指纹（Canvas、WebGL、字体、硬件等）、Cookies 与 IP 环境，让平台把多个账号识别为互不相关的真实用户，降低多账号运营中的关联封号风险。常见于跨境电商、广告投放、社媒矩阵、联盟营销与 Web3 等场景。
 
 #### 适用人群
 
@@ -18,38 +18,38 @@ https://github.com/zhaotoday/fingerprint-browser
 
 #### 指纹浏览器
 
-> 说明：以下资料整理于 2026 年，价格为公开参考价（受汇率、活动、套餐调整影响，实际以官网为准）。
+> 说明：以下资料更新于 2026 年 10 月，价格为官网公开参考价（受汇率、促销活动及套餐调整影响，实际以各官网为准）。
 
-##### 国内厂商（中文界面、客服/文档友好）
+##### 国内厂商（中文界面、客服与文档友好）
 
-- [Roxy 浏览器](https://roxybrowser.cn/invite/9PM9BX) **⭐ 推荐**：基于 Chromium 的反检测浏览器，主打**无限多开 + 完整 API 自动化 + 团队协作**，深度修改 195+ 项浏览器参数，全平台支持（Windows/macOS/Linux）。套餐（年付价）：免费版 5 窗口（永久，另含 7 天全功能试用）；基础版 $4.8/月（10+5 窗口）、$16.8/月（100+5 窗口）；专业版 $88.8/月（1000+5 窗口）；商业版 $568.8/月（10000+5 窗口）；企业版定制。支持月/季(85折)/半年(75折)/年付(6折)，自动续费再享 7.5% 折扣。附加费用：代理流量 $3/GB、工作空间 $10/个、成员席位约 $5/人。
-- [紫鸟浏览器](https://ziniao.com/sharelinks/?from=17846400491513&activity_id=114) **⭐ 推荐**：跨境电商垂直老牌（累计服务 220 万+ 商家），深度优化亚马逊/沃尔玛/TikTok Shop/Shopee/Temu 场景，走**"指纹 + IP + 设备环境"打包**的一站式模式，自带云端 IP 资源池。按"设备类型 + 网络地区 + 是否可远程"三维定价：本地设备 ¥30–50/月、云平台(不可远程/香港) ¥48–65/月、云平台(可远程) ¥75–95/月、家庭宽带 ¥100+/月、静态住宅 ¥88–158/月。半年付送 15 天、年付送 2 个月；新用户首月最低约 ¥27–38。注意：默认屏蔽 Facebook/TikTok，暂无 Mac 客户端。
-- [AdsPower](https://www.adspower.net/share/wGDT4O) **⭐ 推荐**：国内体量最大、功能最全的行业标杆，RPA 自动化强、插件生态成熟、稳定性高，适合成熟电商团队、TikTok/广告矩阵。套餐：免费版 2–5 环境；专业版约 $9/月起（$5.4/月按年）；Base 约 $0.70/环境/月（100 环境≈$70/月）；团队版定制。环境越多价格涨幅越明显。
-- [比特浏览器](https://www.bitbrowser.cn/)：高性价比之选，上手极简、群控/批量同步强、价格最低，适合中小卖家、工作室、撸毛党。套餐：免费版约 10 环境；付费约 ¥129/月起（50 环境）、¥299/月（200 环境）、¥599/月（无限环境）。指纹精度中等，历史上有过安全事件争议，不建议放高价值账号。
-- [OKBrowser](https://github.com/za515217965/OKBrowser)：基于 Chromium 的**免费**指纹浏览器（Web3 空投常用），承诺环境创建与启动永久免费，支持无限环境/无限团队、批量导入、API 管理、鼠标同步、私有化部署。套餐：免费版（无限环境、无限启动）；进阶功能 ¥29.9 档（模板导入、窗口同步器、自动化 API、扩展中心等）；私有化部署 ¥2999 起（自主数据存储 + 定制）。目前主要支持 Windows。
-- [ixBrowser](https://www.ixbrowser.com/)：主打**永久免费且环境数量无上限**的反检测浏览器。套餐：免费版 $0（无限环境、2 席位、每日创建 10 个/开启 100 个）；Professional $3.99/月（20 席位、每日 100 创建/1000 开启、含 API + 同步器）；Business $9.99/月（50 席位）；更高档 $19.99/月（150 席位、批量导入）。注意：免费版每日创建/开启有上限，API 需付费版；仅支持 Windows/macOS，部分参数（如 GPU）遮蔽不全。
-- [NSTBrowser](https://www.nstbrowser.io/)：较新的反检测浏览器，主打**云端 Browserless + RPA/SDK/API 自动化**（兼容 Puppeteer/Playwright/Selenium），环境数量无上限、按每日启动次数计费。套餐：免费版 $0（每日 10 次启动、2 席位、10 小时 Browserless）；Professional $29.9/月（每日 3000 次启动、无限席位、1000 小时 Browserless）；Enterprise $59.9/月（每日 10 万次启动、2500 小时）；超量按 $0.01/次计费；季付 9 折、年付 6 折。
-- [DICloak](https://dicloak.cn/)：2026 年性价比新黑马，界面简洁、定价激进，支持指纹定制、RPA 自动化、窗口同步、团队协作。套餐：免费版 $0（5 环境、每日打开 15 次）；基础版 $8/月（$4.8/月按年，100 环境、批量操作与数据同步）；高阶版 $28.8/月（$17.28/月按年，全功能 + RPA + 设备多登）；共享版+ $138/月（$82.8/月按年，成员数不限，适合中大型团队）。
-- [MostLogin](https://www.mostlogin.com/)：支持多内核、指纹自定义细，偏技术党，提供"指纹浏览器 + 云手机"。2026 年正处于从先行者计划转向正式订阅期（先行期功能 100% 免费）。套餐：基础版（10 配置）；团队版 $2.1–3/月（20–500 配置）；专业版 $49/月起（600–10000 配置）；企业版 $385/月起（1 万+ 配置）。按环境/设备可另按天/按需计费（环境约 $0.02–0.03/24 小时，设备按需 $0.1/15 分钟）。
+- [Roxy 浏览器](https://roxybrowser.cn/invite/9PM9BX) **⭐ 推荐**：基于 Chromium 的反检测浏览器，支持多开、API 自动化、AI Agent、MCP 接入与窗口同步，覆盖 Windows、macOS 和 Linux。套餐：免费版 2 窗口（操作日志保留 3 天，API 50 次/分）；基础版（10–100 窗口）年付 $4.8/月起（月付 $8/月起，日志保留 7 天，API 100 次/分）；专业版（100–1000 窗口，日志保留 15 天，API 200 次/分）；商业版（1000–10000 窗口，日志保留 30 天，API 300 次/分）；企业版（1 万–10 万窗口，API 500 次/分）。支持按 1/7/30/90/180/360 天订阅，年付 6 折。附加费用：团队空间 $10/个、成员席位 $5/人。
+- [紫鸟浏览器](https://ziniao.com/sharelinks/?from=17846400491513&activity_id=114) **⭐ 推荐**：面向跨境电商的老牌多账号管理系统（累计守护 777 万+ 跨境账号，适配 300+ 平台），提供“浏览器 + 独立设备网络 + 安全管家/AI Agent”方案，支持 Windows、macOS、Linux、Android、iOS 及小程序，不收团队成员席位费。定价：浏览器软件免费；设备网络按平台选配，亚马逊等通用设备日常约 ¥68/设备/月起（新人首月约 ¥30 起）；TikTok Shop、Temu、Coupang、Ozon 专区日常约 ¥48/设备/月起（新人首月低至 ¥10）；也支持自有设备导入。新人可领 ¥76 优惠券，买 6 个月送 15 天（赠 1 次换设备），买 12 个月送 60 天（赠 3 次换设备）。
+- [AdsPower](https://www.adspower.net/share/wGDT4O) **⭐ 推荐**：体量大、功能全面的反检测浏览器，支持 Chrome 与 Firefox 双内核、RPA 自动化、多窗口同步、Local API 与 MCP 接入，适合电商团队、TikTok 与广告矩阵。套餐：免费版 2 环境（永久免费，另含 7 天试用）；Professional（10–100 环境，附赠 2 免费环境，API 300 次/分）月付 $9/月起（年付 6 折 $5.4/月起，季付 85 折）；Business（200+ 环境，API 900 次/分）；Enterprise（5000+ 环境定制，API 1500 次/分）。
+- [比特浏览器](https://www.bitbrowser.cn/)：主打低价与实用，采用 Chrome 与 Firefox 双内核开发，支持群控窗口同步、RPA 自动化、Local API，还提供安卓/iOS 云手机与云电脑，适合中小卖家与工作室。套餐：永久免费版 10 环境（1 成员、每日打开 50 次、每日创建上限 20 个，含同步器、API 与 RPA）；付费版 50 窗口（2 员工）¥50/月、100 窗口（4 员工）¥75/月、200 窗口（8 员工）¥125/月，更高规格可按需定制。季付 9 折、半年 8 折、年付 7 折。
+- [OKBrowser](https://github.com/za515217965/OKBrowser)（官网 [okbrow.com](https://okbrow.com/)）：基于 Chromium 的反检测浏览器（Web3 空投常用），支持窗口同步、批量扩展、API 管理与企业私有化部署，目前支持 Windows（macOS 与 Android 尚在开发）。官网套餐：永久免费版 ¥0（2 个环境、无限启动次数）；高级会员 ¥29.9/月（无限环境、无限启动、Excel 模板导入、批量操作、窗口同步器、自动化 API）；私有化部署 ¥2999 起（无限环境、私有服务器存储与定制）。
+- [ixBrowser](https://www.ixbrowser.com/)：主打环境数量无上限的反检测浏览器。套餐：Free $0/月（无限环境、2 席位、每日创建 10 个/开启 100 个）；Basic Developer $9.99/年（无限环境、10 席位、含 API）；Professional $3.99/月（20 席位、每日 100 创建/1000 开启，含 API 与同步器）；Business $9.99/月（50 席位、每日 500 创建/5000 开启）；Enterprise $19.99/月（150 席位、每日 1500 创建/15000 开启、支持批量导入）。注意：免费版每日创建与开启有上限，API 需付费版，支持 Windows 与 macOS。
+- [NSTBrowser](https://www.nstbrowser.io/)：主打云端 Browserless、RPA、AI Agent Skills 与 API 自动化（兼容 Puppeteer/Playwright/Selenium），支持 5 类 CAPTCHA 自动处理与内置代理（$0.4/GB）。套餐：Starter $29.9/月（500 环境，按标准环境启动次数计费）；另有 $49.9/月等高阶套餐，覆盖 2 万至 50 万环境规模。
+- [DICloak](https://dicloak.cn/)：支持指纹定制、RPA 自动化、窗口同步、Browser MCP Server 与开放 API，覆盖 Windows 与 macOS。套餐（年付 6 折）：Free $0/月（5 环境、1 成员、每日打开 15 次）；Base $8/月（年付 $4.8/月，每日打开 400 次，支持批量操作、数据同步与团队管理）；Plus $28.8/月（年付 $17.28/月，每日打开 5 万次，含窗口同步、Open API、500 个 RPA 任务及成员多端登录）；Share+ $138/月（年付 $82.8/月，成员席位与每日打开次数不限，适合中大型团队）。
+- [MostLogin](https://www.mostlogin.com/)：提供“反检测浏览器 + 云手机”，支持多内核、API 与 MCP。套餐（季付 9 折、半年 8 折、年付 7 折）：Starter 免费（5 环境、1 所有者，含云同步、批量管理、API 2 次/秒与 MCP）；Plus $3/月起（年付 $2.1/月起，20–500 环境，API 5 次/秒）；Pro $70/月起（年付 $49/月起，600–10000 环境，API 10 次/秒）；Enterprise $550/月起（年付 $385/月起，10100–10 万+ 环境，API 20 次/秒）。云手机支持包月（$25/月/台起）或按需计费（设备租金 $0.1/15 分钟，单日封顶 $1.6；环境费 $0.02–0.03/24 小时）。
 
 ##### 国际厂商（英文界面为主，海外团队常用）
 
-- [Gologin](https://gologin.com/)：云端存储、跨设备同步，最佳性价比之一，适合中小团队与远程办公（国内使用需注意网络）。套餐：免费 3 环境；Professional $24/月(年付)/$49/月（100 环境）；Business $49–99/月（300 环境）；Enterprise $99–199/月（1000 环境）。
-- [Wade X](https://wade.is/)：基于 Chromium 150 的反检测浏览器，主打真实设备指纹 + 完整隔离 + 移动端(Android/iOS)模拟 + 快速 API，代理内置于浏览器环境统一管理。套餐：Private $10/月（10 环境）；Pro $30/月起（30+ 环境）；Enterprise $300/月起（1000+ 环境，定制限额与专属引导）。半年付省 10%、年付省 20%；优惠码 `FULLACCESS` 可享 7 天全功能试用，支持加密货币支付。
-- [Multilogin](https://multilogin.com/)：企业级、指纹精度与稳定性天花板，自带住宅代理流量与移动端模拟，适合高价值账号与大型团队。2026 年 7 月起套餐改为打包制并新增永久免费版：免费版（5 个云端浏览器/移动环境、一次性 200MB 代理流量、无需信用卡）；付费版 $7.08/月起（年付）；Pro 10 €9/月（10 环境 + 1GB 代理）、Pro 100 约 €49/月（100 环境 + 10GB 代理）；Business 300 起，企业版联系销售。超量代理按 €3–7.08/GB 计费。
-- [Dolphin Anty](https://dolphin-anty.com/)：为联盟营销与广告投放优化，内置自动化强。套餐：免费 10 环境；Base 约 $89/月（100 环境）、$159/月（300 环境）；Team 约 $299/月。
-- [Octo Browser](https://octobrowser.net/)：界面现代、性能快、团队协作好，增长迅速。套餐：$29/月起（约 10 环境）、$79/月、$169/月（Team）。
-- [Kameleo](https://kameleo.io/)：支持真实移动端指纹配置，桌面 + 移动统一管理。套餐：$59/月起、$89/月，团队定制（约 100 环境）。
-- [Incogniton](https://incogniton.com/)：免费额度友好，适合个人/小团队入门。套餐：免费 10 环境（2 个月后仅保留 3 个）；$29.99/月（50 环境）；$79.99/月（150 环境）。
-- [Undetectable](https://undetectable.io/)：主打**付费版本地环境无上限**（本地环境不限量创建）+ 云端环境按量计费，适合自动化与团队协作。套餐：免费版（5 云端环境、10 配置、1 席位）；Base $49/月（50 云端环境、25 配置、无限本地环境）；Professional $99/月（100 云端环境、50 配置，支持导入/导出）；Custom $199/月（200 云端环境、5 席位、100 配置，可接私有存储）。额外配置 $1/个、席位 $20/月起；多月订阅最高 30% 折扣。
-- [VMLogin](https://www.vmlogin.us/)：老牌反检测浏览器，中高端定位。套餐：约 $99/月（200 环境）、$199/月、$399/月。
-- [Indigo Browser](https://indigobrowser.com/)：界面简洁的中高端产品，无永久免费版（仅试用），API/自动化/批量操作在高档套餐才解锁。套餐：Starter $29/月（10 环境）；Professional $79/月（50 环境，含 API）；Business $149/月（150 环境，团队功能）；Enterprise 定制。另有按 100 环境 €99/月 的档位。
-- [GPM Login](https://gpmlogin.com/)：越南出品，支持 Chromium + Firefox 双内核，**环境数量无限（按激活设备数授权）**，主打买断制。套餐：月租 $9/月/设备；买断 $99（1 设备）、Team-3 $199（3 设备）、Team-5 $249（5 设备），均含无限环境、代理、API 与自动化、软件更新。
-- [GhostBrowser](https://ghostbrowser.com/)：偏**多会话生产力工具**而非严格意义的反检测浏览器（指纹遮蔽较弱），适合多账号快速切换。套餐：免费 4 环境；付费约 $21/月起。
-- [VektorT13](https://detect.expert/)：基于**虚拟机**的高端反欺诈/反检测系统（面向专业反欺诈测试），非订阅制。个人版按反欺诈系统复杂度定价，约 $1800–14000 不等（含预置 preset）；前 2 台设备免费，超出每台 $150/月。
-- [Bablosoft (FingerprintSwitcher / BAS)](https://bablosoft.com/)：老牌浏览器自动化生态，含免费的 BrowserAutomationStudio（可视化编程 + 多线程）与 FingerprintSwitcher 指纹库，配合 `puppeteer-with-fingerprints` 使用，**是少数支持伪造 Canvas（PerfectCanvas）的方案**（PerfectCanvas 较慢，免费额度每日约 30–40 个，重度使用需买 CustomServer）。定价：免费版有请求频率限制；Premium $30/1 个月、$60/3 个月。
-- [Linken Sphere](https://ls.app/)：基于 Chromium 的高端反检测浏览器，内核更新极快，主打真实指纹与稳定隔离，面向资深操盘手、流量套利与广告账号运营，按"会话数"计费（并发启动不限）。套餐：免费版 $0（5 会话，无时限）；Pure $30/月（30 会话，云同步/养号/多开）；Light $90/月（150 会话，含移动端模拟、100 免费代理）；Pro $160/月（500 会话、10 席位、本地 API、300 免费代理）；Premium $300/月（1000 会话、无限席位、专属经理、1000 免费代理）。6 个月 9 折、年付 8 折。注意：代理/账号等资源需另购（Light 档起才含免费代理）。
-- [CloakBrowser](https://cloakbrowser.dev/)：面向开发者的**开源隐身 Chromium**（MIT 包装器，`pip install` / `npm install` 三行代码即可用），在 C++ 源码层做 58+ 项指纹修改（Canvas/WebGL/音频/字体/GPU/WebRTC 等），可直接替换 Playwright/Puppeteer，实测可过 Cloudflare Turnstile、FingerprintJS、BrowserScan。采用双层分发：Free 层（旧版内核如 v146，永久免费、无用量限制、单并发）；Pro 订阅（最新内核 + 更频繁补丁、多并发 5/20/200/2000+ 会话，分 Solo/Team/Business 档，7 天试用，具体价见官网）。支持 Linux/Windows/macOS。适合爬虫、自动化与 AI Agent。
+- [Gologin](https://gologin.com/)：支持云端存储、跨设备同步、Cloud Android、Browser MCP 与 AI 助手，适合中小团队与远程办公（支持 Windows/macOS/Linux/Android/iOS）。套餐（年付 5 折，含 7 天免费试用）：永久免费版 3 环境；Professional（10/25/50/100 环境可选，含 2GB 代理数据，API 300 RPM）$9/月起（年付 $4.50/月起）；Business（300/500 环境，API 500 RPM）$99/月起（年付 $49.50/月起）；Enterprise（1000 环境，API 800 RPM）$179/月（年付 $89.50/月）；Custom（2000–10 万环境，API 1200 RPM）$279/月起（年付 $139.50/月起）。
+- [Wade X](https://wade.is/)：基于 Chromium 154 的反检测浏览器，支持真实设备指纹、桌面（Edge/Opera/Brave）与移动端（Android/iOS）模拟、自动养号（Warm Up）及 API 自动化，代理内置于环境统一管理。套餐：Mini $30/月（30 环境）；$90/月（150 环境）；$160/月起（500–5000 环境，含 API 与团队管理）。半年付 9 折、年付 8 折；优惠码 `FULLACCESS` 可享 7 天全功能免费试用，支持加密货币支付。
+- [Multilogin](https://multilogin.com/)：老牌企业级产品，将浏览器环境、Android 云手机（Android 10–16，支持 ADB 控制）与内置住宅/ISP/移动代理整合在同一平台。2026 年 7 月起采用新套餐（年付 65 折）：永久免费版（5 个云端环境、一次性赠送 200MB 代理流量与 30 分钟云手机时长，无需绑卡）；Pro（10/20/50 环境，含 1–2 团队席位、每月赠送 1–3GB 代理与 60–85 分钟云手机）年付约 $12.42/月起（10 环境 €9/月起）；Business（100–10000 环境，无限团队席位，每月赠送 5GB+ 代理与 150+ 分钟云手机）年付 $26.67/月起。超量按量计费：代理流量 $2.275/GB 起，云手机时长 $0.0067/分钟起（未用额度可结转）。
+- [Dolphin Anty](https://dolphin-anty.com/)：针对联盟营销与广告投放优化，内置无代码自动化场景构建器（Scenario Builder）与同步器，支持 Chrome/Firefox 内核。套餐（半年 8 折、年付 6 折）：Free $0/月（5 环境，仅本地同步，无 API）；Starter $10/月起（20–60 环境，含云同步、同步器与 API 1500 RPM）；Base $89/月（100 环境，可加购成员 +$10/人）；Team $159/月（300 环境，可加购成员 +$20/人）；Enterprise $299/月起（1000–5 万环境，可加购成员 +$25/人）。
+- [Octo Browser](https://octobrowser.net/)：运行速度快、稳定性高，支持团队协作与内置代理商店，覆盖 Windows、macOS、Linux 及移动端（iOS/Android）。套餐（季付 9 折、半年 8 折、年付 7 折）：Lite €10/月（年付 €7/月，3 环境）；Starter €29/月（年付 €21/月，10–30 环境，优惠码 `TRIAL` 享 2 天免费试用）；Base €79/月（年付 €56/月，100–200 环境，含 API）；Team €169/月（年付 €119/月，350–600 环境、3–6 成员，含 API）；Advanced €329/月（年付 €231/月，1200–10 万环境、8+ 成员，高并发 API）。
+- [Kameleo](https://kameleo.io/)：按“并发浏览器数”计费，所有套餐均含无限本地环境、Chroma（Chromium）与 Junglefox（Firefox）双内核、智能 Canvas 伪造、本地 API 及 Docker 支持。套餐：Free €0/月（2 并发、每月 300 分钟使用时长、100 云端环境、2 移动模拟、3 席位、API 60 RPM）；Startup €59/月（年付 €45/月，10 并发起、不限时长、无限团队席位、5000 云端环境、10+ 移动模拟、API 120 RPM）；Business €299/月（年付 €225/月，100 并发起、无限移动模拟、API 600 RPM）；Enterprise €1499/月（年付 €1125/月，1000 并发起、API 1200 RPM）。
+- [Incogniton](https://incogniton.com/)：内置免费代理与 Cas AI 助手，适合个人与中小团队。套餐（半年 7 折、年付 6 折）：Starter 免费版（首 2 个月 10 环境，之后保留 3 环境）；Starter Plus $19.99/月（半年付 $13.99/月，10 环境）；Entrepreneur $29.99/月（半年付 $20.99/月，50 环境，含 API、Selenium/Puppeteer、同步器与 Cookie Collector）；Professional $79.99/月（半年付 $55.99/月，150 环境、3 团队席位）；Custom $149.99+/月（半年付 $104.99+/月，500–5000 环境、10+ 席位）。
+- [Undetectable](https://undetectable.io/)：付费版本地环境数量无上限，云端环境按档位提供，适合自动化与团队协作。套餐（年付 7 折）：Free $0/月（5 云端环境、10 指纹配置、1 席位，可按 $10/10 个加购至 45 云端环境）；Base $34/月（50 云端环境、无限本地环境、25 配置、1 席位，含本地 API、批量创建与 Cookie 机器人）；Professional $69/月（100 云端环境、无限本地环境、50 配置、2 席位，可加购席位 +$20/人）；Custom $139/月起（200–10200 云端环境、无限本地环境、100 配置、5 席位，可加购席位 +$15/人，支持接入私有云存储 +$500/月）。额外指纹配置 $1/个。
+- [VMLogin](https://www.vmlogin.us/)：老牌 Windows 反检测浏览器，定位中高端。套餐（年付 75 折）：Free Trial $0（3 天试用，5 环境）；Solo $99/月（200 环境、5 子账号，含 REST API）；Team $209/月（500 环境、10 子账号）；Scale $499/月（3000 环境、20 子账号，高阶 API）；Custom 定制。
+- [Indigo Browser](https://indigobrowser.com/)：现已升级为 Indigo X（桌面端代理 + Web 控制台），支持 Mimic 与 Stealthfox 双内核、Android 移动环境模拟、本地与云端存储，并赠送内置住宅代理流量。套餐（年付 8 折）：10 天免费试用（50 环境、200MB 代理流量、API 50 RPM）；Pro 10 €9/月（10 环境、1GB 代理、API 50 RPM）；Pro 50（50 环境、3GB 代理、API 100 RPM）；Pro 100 €79/月（100 环境、2 成员、5GB 代理、API 100 RPM）；Business €159/月起（300 环境、无限成员、10GB 代理、API 100 RPM）；定制版 €300/月起。
+- [GPM Login](https://gpmlogin.com/)：越南团队开发，支持 Chromium 与 Firefox 双内核，默认本地存储数据，环境数量不限（按激活设备数授权），提供月租与买断制。套餐：月租 $9/月/设备；终身买断 Starter $99（1 设备）、Team-3 $199（3 设备）、Team-5 $299（5 设备），均包含无限环境、代理支持、API 自动化与软件更新。支持 Windows 与 macOS（Apple Silicon）。
+- [GhostBrowser](https://ghostbrowser.com/)：偏多会话生产力工具（指纹伪装能力较弱），适合同窗口多标签切换不同账号。套餐：Free 免费版（最多 3 个身份 Identities，支持按工作区或身份分配代理）；Basic 年付 $21/月起（无限身份与工作区，不含代理控制插件）；Pro 年付 $46/月起（支持为每个标签页、身份或工作区分配独立代理）。
+- [VektorT13 (Detect Expert)](https://detect.expert/)：由反欺诈专家 Dmytro Momot 打造的反检测生态，核心为基于虚拟机的 Antidetect System（分为面向高复杂度场景的 Personal 定制版，以及包含在订阅中的 Antidetect Premium Edition），配套 IP Auditor 与多维度欺诈分检测器（Checkers）。平台现提供 Free（基础按次检测）、Standard（含每月 2000 次 IP 审计与 10550 次免费检测）及 Premium 订阅（支持 2 台设备的 Antidetect Premium Edition、与 VektorT13 直接沟通及免费检测额度，支持 7 天退款与 Patreon/加密货币支付）。
+- [Bablosoft (FingerprintSwitcher / BAS)](https://bablosoft.com/)：老牌浏览器自动化生态，包含免费的 BrowserAutomationStudio（可视化编程 + 多线程）与 FingerprintSwitcher 指纹服务（约 5 万真实设备指纹库），可配合 `puppeteer-with-fingerprints` / Playwright / Selenium 使用，支持伪造 Canvas（PerfectCanvas）。定价：Free 免费版（仅支持 Windows Chrome 指纹，每 3 分钟限 1 次请求，无 PerfectCanvas）；Premium $30/1 个月、$60/3 个月（支持全平台、Firefox/Edge/Android/iPhone 指纹、PerfectCanvas 与 FingerprintDetector）。
+- [Linken Sphere](https://ls.app/)：基于 Chromium 的反检测浏览器，内核更新快，面向资深操盘手、流量套利与广告运营，按“会话数（Sessions）”计费，不限安装设备数。套餐（半年 9 折、年付 8 折）：Free $0（5 会话，无时间限制，1 席位）；Pure $30/月（年付 $24/月，30 会话，含云同步、自动养号与多开）；Light $90/月（年付 $72/月，150 会话，含移动端模拟与 100 免费代理）；Pro $160/月（年付 $128/月，500 会话、10 团队成员、本地 API 与 300 免费代理）；Premium $300/月（年付 $240/月，1000 会话、无限团队成员、专属经理与 1000 免费代理）。
+- [CloakBrowser](https://cloakbrowser.dev/)：面向开发者的开源隐身 Chromium（最新内核 v154，`pip install` / `npm install` 三行代码即可接入），在 C++ 源码层内置 73 项指纹补丁（Canvas、WebGL、WebGPU、音频、字体、TLS 指纹等），自带 `humanize=True` 拟人交互，可直接替换 Playwright、Puppeteer（支持 Python / JS / .NET）并用于 AI Agent，另提供自托管 GUI 工具 CloakBrowser Manager。定价（按并发会话数计费，提供 5 天免费试用 / 5 并发）：Solo 促销价 $19/月（原价 $29，5 并发）；Team $49/月（原价 $79，20 并发）；Business $199/月（原价 $249，200 并发）；Scale $499/月（原价 $699，2000 并发）。支持 Linux（x64/ARM64）、Windows 与 macOS。
 
 #### 代理
 - [Rola IP](https://rola-ip.co/?code=05368MWA)
