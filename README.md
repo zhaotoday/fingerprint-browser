@@ -1,14 +1,20 @@
 # 指纹浏览器（防关联浏览器）资源整理
 
-本项目收集整理指纹浏览器（防关联浏览器）的主流产品、套餐价格与相关资源，供选型参考。
+本项目收集整理指纹浏览器（防关联浏览器 / 反检测浏览器 / Antidetect Browser）与代理 IP 的主流产品、套餐价格、开源项目及开发资料，供多账号管理、自动化开发与选型参考。
 
-指纹浏览器又称防关联浏览器，通过为每个账号隔离独立的浏览器指纹（Canvas、WebGL、字体、硬件等）、Cookies 与 IP 环境，让平台把多个账号识别为互不相关的真实用户，降低多账号运营中的关联封号风险。常见于跨境电商、广告投放、社媒矩阵、联盟营销与 Web3 等场景。
+指纹浏览器又称防关联浏览器或反检测浏览器（Antidetect Browser / Fingerprint Browser），通过为每个账号隔离独立的浏览器指纹（Canvas、WebGL、WebGPU、Audio、字体、硬件、TLS 等）、Cookies 与代理 IP 环境，让平台将多个账号识别为互不相关的真实设备，降低跨境电商、广告投放、社媒矩阵、联盟营销（Affiliate）、Web3 空投、数据采集（Web Scraping）与 AI Agent 浏览器自动化中的关联封号与反爬风控风险。
+
+#### 收录内容
+
+- **商用指纹浏览器（27 款）**：含 Roxy、紫鸟、AdsPower、比特、Hubstudio、MoreLogin、MostLogin、DICloak、Multilogin、GoLogin、Dolphin Anty、Octo Browser、GeeLark、Linken Sphere、Undetectable、Kameleo、CloakBrowser 等国内外主流产品的核心功能、免费额度、套餐价格、API 与 MCP 支持情况。
+- **代理 IP 服务商（28 家）**：含 Rola IP、Bright Data、Oxylabs、Decodo（原 Smartproxy）、快代理、青果网络、IPIDEA、922 Proxy、LunaProxy、PIA Proxy、Kookeey、SOAX、IPRoyal、Webshare、DataImpulse 等动态住宅、静态 ISP、数据中心与移动代理的计费方式与参考单价。
+- **开源项目与技术生态**：涵盖开源反检测浏览器（Camoufox、CloakBrowser、BotBrowser、VirtualBrowser 等）、Chromium 内核指纹定制源码、反检测自动化框架（Patchright、undetected-chromedriver、nodriver、pydoll、SeleniumBase 等）、指纹生成与伪造库（fingerprint-suite、browserforge 等）、指纹检测工具（FingerprintJS、CreepJS、BrowserScan、Whoer 等）以及 Chromium 编译与逆向文章视频。
 
 #### 适用人群
 
 - 需要批量管理多账号、规避关联封号的个人卖家或运营团队
-- 跨境电商、广告投放、社媒矩阵、联盟营销从业者
-- 关注隐私保护与反追踪技术的开发者与研究者
+- 跨境电商、广告投放、社媒矩阵、联盟营销与 Web3 从业者
+- 从事浏览器自动化、反爬虫对抗、Chromium 内核定制、隐私保护与反追踪研究的开发者与研究者
 
 #### 项目地址
 https://github.com/zhaotoday/fingerprint-browser
