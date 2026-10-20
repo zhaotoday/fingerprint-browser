@@ -336,6 +336,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [VanishMe](https://github.com/XiNian-dada/VanishMe)
 
 #### 其他未整理
+- [browser-act/skills](https://github.com/browser-act/skills)
 - [飞跨浏览器](https://www.feikua.net/)
 - [jichangtz-tuijian](https://github.com/myikuns/jichangtz-tuijian)
 - [Prism-Browser-Community](https://github.com/DFarm6/Prism-Browser-Community)
