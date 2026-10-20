@@ -250,7 +250,7 @@ https://github.com/zhaotoday/fingerprint-browser
 
 #### 代理
 
-> 说明：价格为 2026 年 10 月能核到的官网或公开标价，促销和汇率会变，以下单页为准。Rola IP 固定第一；其余按公开讨论里的知名度排列，不是质量排名。介绍和套餐默认收起，点击箭头展开。Google 威胁情报曾将 IPIDEA、922 Proxy、LunaProxy、PIA Proxy 等列为同一住宅代理网络下的品牌。`smartproxy.cn` 与已更名为 Decodo 的原 Smartproxy 不是同一家。
+> 说明：以下资料更新于 2026 年 10 月，价格为官网公开参考价。促销和汇率会变，以下单页为准。
 
 <details>
 <summary><a href="https://rola-ip.co/?code=05368MWA"><strong>Rola IP</strong></a></summary>
@@ -281,6 +281,13 @@ https://github.com/zhaotoday/fingerprint-browser
 </details>
 
 <details>
+<summary><a href="https://www.kuaidaili.com/"><strong>快代理</strong></a></summary>
+
+国内短效和隧道代理里认知度很高的老品牌，同时也卖海外住宅。官网定价页可见：隧道代理 Pro 约 ¥506/月起；海外动态住宅有约 ¥42/GB 的流量档，以及约 ¥8,999/月的包月隧道；独享代理共享版约 ¥50/月、独享版约 ¥180/月；私密代理按 IP 量计费，页面有 ¥48/1 万 IP 一类档位。并发、带宽和换 IP 周期按规格增减。
+
+</details>
+
+<details>
 <summary><a href="https://www.qg.net/product/proxyip.html"><strong>青果网络</strong></a></summary>
 
 国内企业级代理里的老牌子，官网称服务超过 11 万家企业与开发者。产品有隧道代理、短效动态、长效住宅（存活约 30 分钟到长期）和独享代理，并已上线全球 HTTP 海外代理。支持 HTTP(S) 与 SOCKS5、账密或白名单。公开产品页按套餐和定制报价，没有统一的按 GB 标价，价格以咨询和后台为准。
@@ -288,9 +295,9 @@ https://github.com/zhaotoday/fingerprint-browser
 </details>
 
 <details>
-<summary><a href="https://www.kuaidaili.com/"><strong>快代理</strong></a></summary>
+<summary><a href="https://www.shenlongproxy.com/"><strong>神龙代理</strong></a></summary>
 
-国内短效和隧道代理里认知度很高的老品牌，同时也卖海外住宅。官网定价页可见：隧道代理 Pro 约 ¥506/月起；海外动态住宅有约 ¥42/GB 的流量档，以及约 ¥8,999/月的包月隧道；独享代理共享版约 ¥50/月、独享版约 ¥180/月；私密代理按 IP 量计费，页面有 ¥48/1 万 IP 一类档位。并发、带宽和换 IP 周期按规格增减。
+国内代理广告里曝光很高的牌子，短效动态、隧道和海外动态住宅都能见到。短效产品多按 IP 个数和分钟时长包月，海外产品按流量或带宽卖。各站点标价差异大，公开页没有一份稳定的统一价目，购买前以对应官网的当页套餐为准。
 
 </details>
 
@@ -309,20 +316,6 @@ https://github.com/zhaotoday/fingerprint-browser
 </details>
 
 <details>
-<summary><a href="https://soax.com?afmc=9e"><strong>SOAX</strong></a></summary>
-
-以城市、ISP、ASN 定向出名的住宅和移动代理，两类网络共用一套费率，按出口国家分三档单价。Sandbox 按量，一级地区 $5/GB；Builder $200/月、$3/GB；Team $500/月、$2.20/GB；Scale $1,500/月、$1.50/GB；Enterprise $3,000/月起、低至 $0.85/GB。额度可结转 60 天。二级、三级地区更便宜。
-
-</details>
-
-<details>
-<summary><a href="https://iproyal.com/?r=381340"><strong>IPRoyal</strong></a></summary>
-
-个人和中小团队里很常见，住宅流量购买后不过期，也有静态 ISP、数据中心和移动。住宅月付：1GB $7/GB、2GB $5.95/GB、10GB $5.25/GB，10TB 起 $1.75/GB。按量略高，1GB $7.35/GB，10TB 起约 $1.84/GB。池子公开称约 6,400 万住宅 IP。没有长期免费版。
-
-</details>
-
-<details>
 <summary><a href="https://www.lunaproxy.com/register?Invitation_code=59NQELMK"><strong>LunaProxy</strong></a></summary>
 
 中文用户里曝光很高的住宅代理。官方说明：动态住宅 $0.77/GB，可按国家、州、城市定向，IP 时长约 1–90 分钟；不限量住宅 $79/天起，国家和流量都不按量限；静态住宅 $3/IP/周；静态数据中心 $2.5/IP/周；长效 ISP $0.66/GB 起。支持白名单和账密。
@@ -333,6 +326,27 @@ https://github.com/zhaotoday/fingerprint-browser
 <summary><a href="https://account.piaproxy.com/register?invitation_code=9SOOQJZT"><strong>PIA Proxy</strong></a></summary>
 
 国内常被称作 PIA S5 的住宅代理，产品和 922、Luna 接近。动态住宅按流量，大档公开页可见约 $0.77/GB；不限量有按天方案，活动价曾标到约 $63/天；另有静态住宅和数据中心，静态按 IP 和天数出售。未用完的流量在部分套餐里可以结转。具体档位以支付页为准。
+
+</details>
+
+<details>
+<summary><a href="https://www.kookeey.com/"><strong>Kookeey</strong></a></summary>
+
+出海业务里常被提到的静态住宅供应商，也有动态住宅、静态 IDC 和移动代理，覆盖约 180 个以上国家。静态住宅按 IP、不限流量；动态住宅和移动按 GB。公开评测里的活动价大约是静态 ¥45/IP/月起、动态低至约 ¥7.5/GB、移动低至约 ¥11/GB、IDC ¥26/IP/月起，平时标价通常更高，以官网为准。
+
+</details>
+
+<details>
+<summary><a href="https://soax.com?afmc=9e"><strong>SOAX</strong></a></summary>
+
+以城市、ISP、ASN 定向出名的住宅和移动代理，两类网络共用一套费率，按出口国家分三档单价。Sandbox 按量，一级地区 $5/GB；Builder $200/月、$3/GB；Team $500/月、$2.20/GB；Scale $1,500/月、$1.50/GB；Enterprise $3,000/月起、低至 $0.85/GB。额度可结转 60 天。二级、三级地区更便宜。
+
+</details>
+
+<details>
+<summary><a href="https://iproyal.com/?r=381340"><strong>IPRoyal</strong></a></summary>
+
+个人和中小团队里很常见，住宅流量购买后不过期，也有静态 ISP、数据中心和移动。住宅月付：1GB $7/GB、2GB $5.95/GB、10GB $5.25/GB，10TB 起 $1.75/GB。按量略高，1GB $7.35/GB，10TB 起约 $1.84/GB。池子公开称约 6,400 万住宅 IP。没有长期免费版。
 
 </details>
 
@@ -358,23 +372,16 @@ https://github.com/zhaotoday/fingerprint-browser
 </details>
 
 <details>
+<summary><a href="https://rayobyte.com/"><strong>Rayobyte</strong></a></summary>
+
+老牌代理，住宅、ISP、数据中心和抓取 API 都有。Premium 住宅按量：1–49GB $3.50/GB，50–249GB $2/GB，250–999GB $1.50/GB，1,000GB 以上 $0.70/GB，含国家、城市、邮编和 ASN。另有单价更低的 Scale 月付住宅（约 $0.015/GB 起），不带定向，且要先过合规审核。多数产品可申请试用。
+
+</details>
+
+<details>
 <summary><a href="https://nodemaven.com/"><strong>NodeMaven</strong></a></summary>
 
 2025–2026 年英文住宅代理榜单里的常客，卖点是事先过滤过的住宅 IP，可按国家、城市、ISP 和邮编定向。月付入门约 $8.50（2GB，约 $4.25/GB），按量约 $5/GB，1,000GB 档约 $2.20/GB。另有 $3.50 / 750MB 的付费试用。池子公开称约 3,000 万住宅 IP。
-
-</details>
-
-<details>
-<summary><a href="https://www.shenlongproxy.com/"><strong>神龙代理</strong></a></summary>
-
-国内代理广告里曝光很高的牌子，短效动态、隧道和海外动态住宅都能见到。短效产品多按 IP 个数和分钟时长包月，海外产品按流量或带宽卖。各站点标价差异大，公开页没有一份稳定的统一价目，购买前以对应官网的当页套餐为准。
-
-</details>
-
-<details>
-<summary><a href="https://www.kookeey.com/"><strong>Kookeey</strong></a></summary>
-
-出海业务里常被提到的静态住宅供应商，也有动态住宅、静态 IDC 和移动代理，覆盖约 180 个以上国家。静态住宅按 IP、不限流量；动态住宅和移动按 GB。公开评测里的活动价大约是静态 ¥45/IP/月起、动态低至约 ¥7.5/GB、移动低至约 ¥11/GB、IDC ¥26/IP/月起，平时标价通常更高，以官网为准。
 
 </details>
 
@@ -386,9 +393,9 @@ https://github.com/zhaotoday/fingerprint-browser
 </details>
 
 <details>
-<summary><a href="https://rayobyte.com/"><strong>Rayobyte</strong></a></summary>
+<summary><a href="https://geonode.com/"><strong>GeoNode</strong></a></summary>
 
-老牌代理，住宅、ISP、数据中心和抓取 API 都有。Premium 住宅按量：1–49GB $3.50/GB，50–249GB $2/GB，250–999GB $1.50/GB，1,000GB 以上 $0.70/GB，含国家、城市、邮编和 ASN。另有单价更低的 Scale 月付住宅（约 $0.015/GB 起），不带定向，且要先过合规审核。多数产品可申请试用。
+主打低单价的轮换住宅，池子小于头部厂商，公开称月活约 750 万 IP、150 多个国家。月付 10GB 起 $0.792/GB，50GB 约 $0.693/GB，1TB $0.50/GB，100TB 低至 $0.27/GB。按量略高，10GB 为 $0.88/GB。买下的流量不过期。有 $5 / 3 天试用。年付相当于付 10 个月用 12 个月。
 
 </details>
 
@@ -396,13 +403,6 @@ https://github.com/zhaotoday/fingerprint-browser
 <summary><a href="https://www.thordata.com/zh"><strong>ThorData</strong></a></summary>
 
 住宅、移动、静态 ISP、数据中心和抓取 API 都做的代理平台，住宅池公开称 1 亿+。住宅大量档低至约 $0.65/GB（1,000GB 约 $0.73/GB，5,000GB 约 $0.65/GB）。移动 1GB 活动价 $5（标价 $8），500GB 档 $2.20/GB。静态 ISP 页面有 $0.75/IP 与 $1.50/IP 两档。高带宽不限量按天卖，1 天 $280、30 天约 $79/天。
-
-</details>
-
-<details>
-<summary><a href="https://geonode.com/"><strong>GeoNode</strong></a></summary>
-
-主打低单价的轮换住宅，池子小于头部厂商，公开称月活约 750 万 IP、150 多个国家。月付 10GB 起 $0.792/GB，50GB 约 $0.693/GB，1TB $0.50/GB，100TB 低至 $0.27/GB。按量略高，10GB 为 $0.88/GB。买下的流量不过期。有 $5 / 3 天试用。年付相当于付 10 个月用 12 个月。
 
 </details>
 
@@ -480,13 +480,6 @@ https://github.com/zhaotoday/fingerprint-browser
 <summary><a href="https://ip-cats.com/"><strong>IP Cats</strong></a></summary>
 
 体量较小的代理品牌，产品侧重静态和住宅 IP，按 IP 或流量出售。公开评测不多，套餐以官网为准。
-
-</details>
-
-<details>
-<summary><a href="https://netnut.io/"><strong>NetNut</strong></a></summary>
-
-曾经是企业级住宅和 ISP 代理里的常见名字，母公司为上市的 Alarum。2026 年 7 月 2 日起 netnut.io 显示 FBI 查扣页面，公司随后暂停了相关网络服务。截至 2026 年 10 月公开站点仍是查扣页，这里不列套餐，也不建议新购。
 
 </details>
 
