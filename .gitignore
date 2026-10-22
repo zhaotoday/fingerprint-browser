@@ -1,2 +1,13 @@
 /.cursor
 /.idea
+node_modules
+.nuxt
+.output
+.data
+.nitro
+.cache
+dist
+*.log
+.env
+.env.*
+!.env.example

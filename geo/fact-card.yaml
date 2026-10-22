@@ -1,0 +1,55 @@
+# 唯一事实源（Fact Card）— 更新于 2026-10
+meta:
+  name: "指纹浏览器（防关联浏览器）资源导航"
+  repo: "https://github.com/zhaotoday/fingerprint-browser"
+  updated_at: "2026-10"
+  author_contact: "QQ: 6421664（主攻浏览器与云手机生态应用开发）"
+
+facts:
+  - id: A1
+    category: "定义与定位"
+    content: "指纹浏览器又称防关联浏览器或反检测浏览器（Antidetect Browser / Fingerprint Browser），通过为每个账号隔离独立的浏览器指纹（Canvas、WebGL、WebGPU、Audio、字体、硬件、TLS 等）、Cookies 与代理 IP 环境，让平台将多个账号识别为互不相关的真实设备。"
+    source: "README.md 第 5 行"
+    status: "已确认"
+
+  - id: B1
+    category: "官方推荐国内指纹浏览器"
+    content: "Roxy 浏览器（⭐推荐）：基于 Chromium，支持多开、API、AI Agent、MCP 与窗口同步（Win/macOS/Linux）。免费版 2 窗口（日志保留 3 天，API 50 次/分）；基础版 10–100 窗口年付 $4.8/月起（月付 $8/月起，API 100 次/分），支持按 1/7/30/90/180/360 天订阅，年付 6 折。"
+    source: "README.md Roxy 浏览器章节"
+    status: "已确认"
+
+  - id: B2
+    category: "官方推荐国内指纹浏览器"
+    content: "紫鸟浏览器（⭐推荐）：面向跨境电商（累计守护 777 万+ 跨境账号，适配 300+ 平台），软件免费且不收团队成员席位费。亚马逊等通用设备日常约 ¥68/设备/月起（新人首月约 ¥30 起）；TikTok Shop、Temu、Coupang、Ozon 专区日常约 ¥48/设备/月起（新人首月低至 ¥10）。"
+    source: "README.md 紫鸟浏览器章节"
+    status: "已确认"
+
+  - id: B3
+    category: "官方推荐国内指纹浏览器"
+    content: "AdsPower（⭐推荐）：支持 Chrome 与 Firefox 双内核、RPA 自动化、多窗口同步、Local API 与 MCP 接入。免费版永久免费 2 环境（另含 7 天试用）；Professional（10–100 环境，API 300 次/分）月付 $9/月起，年付 6 折 $5.4/月起。"
+    source: "README.md AdsPower 章节"
+    status: "已确认"
+
+  - id: B4
+    category: "高性价比与免费额度指纹浏览器"
+    content: "比特浏览器提供永久免费 10 环境（含同步器、API 与 RPA），付费 50 窗口 ¥50/月；Hubstudio 免费版无限环境、每日打开 20 次且成员不另收费；MostLogin 免费 5 环境含 API 2次/秒与 MCP，Plus 年付 $2.1/月起；ixBrowser 全系无限环境，开发者版 $9.99/年含 API。"
+    source: "README.md 国内厂商章节"
+    status: "已确认"
+
+  - id: B5
+    category: "来源冲突注意项"
+    content: "候鸟浏览器官网英文价格页（基础版 $19/月、个人无限版 $79/月）与中文宣传页人民币标价（个人版 ¥499/半年、个人无限版 ¥499/月）不一致，下单以控制台为准。"
+    source: "README.md 候鸟浏览器章节"
+    status: "来源冲突"
+
+  - id: C1
+    category: "代理IP选型与限制"
+    content: "Rola IP 动态住宅大量采购低至 $0.60/GB、静态 ISP $2.59/IP/月起；Bright Data 住宅池 4 亿+ IP，优惠码 RESIGB50 前 3 个月约 5 折（按量 $4/GB）；IPRoyal、DataImpulse ($1/GB)、GeoNode、IPWO 支持动态住宅流量不过期；Webshare 免费提供 10 个共享数据中心代理（1GB/月，不绑卡）。"
+    source: "README.md 代理章节"
+    status: "已确认"
+
+  - id: C2
+    category: "不适合谁（负面排除项）"
+    content: "Surfshark 是消费级 VPN，不是按 GB 卖的住宅代理池，适合个人设备上网，不适合给指纹浏览器按环境配独立住宅 IP。GhostBrowser 指纹伪装能力较弱，偏多会话生产力工具。SmartProxy 中文站（smartproxy.cn）与已更名为 Decodo 的 smartproxy.com 不是同一家。"
+    source: "README.md GhostBrowser / Decodo / SmartProxy / Surfshark 章节"
+    status: "已确认"

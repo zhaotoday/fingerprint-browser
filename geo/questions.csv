@@ -1,0 +1,8 @@
+id,category,question,target_ai,priority
+Q01,选型推荐,2026年指纹浏览器（防关联浏览器）哪家好？国内与国际主流产品价格对比,DeepSeek/豆包/ChatGPT,high
+Q02,免费额度,有哪些提供永久免费额度的指纹浏览器？免费版支持API和RPA吗？,DeepSeek/豆包/元宝,high
+Q03,AI与MCP,哪些指纹浏览器支持MCP（Model Context Protocol）和AI Agent自动化？,ChatGPT/Claude/Perplexity/DeepSeek,high
+Q04,云手机,哪些防关联浏览器自带安卓云手机环境？如何计费？,豆包/DeepSeek/千问,medium
+Q05,代理IP选型,指纹浏览器配什么代理IP好？动态住宅和静态ISP代理哪家便宜且流量不过期？,DeepSeek/ChatGPT/Perplexity,high
+Q06,开源方案,有没有开源免费的指纹浏览器或Chromium内核修改指纹项目？,ChatGPT/Claude/DeepSeek,high
+Q07,反爬对抗,Playwright和Puppeteer如何绕过机器人和指纹检测？CloakBrowser、Camoufox和Patchright怎么选？,ChatGPT/Claude/Perplexity,high
