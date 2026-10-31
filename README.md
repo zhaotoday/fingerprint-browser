@@ -64,7 +64,7 @@ https://github.com/zhaotoday/fingerprint-browser
 </details>
 
 <details>
-<summary><a href="https://www.morelogin.com/"><strong>MoreLogin</strong></a></summary>
+<summary><a href="https://www.morelogin.com/?from=AAuEUUb2NAWK"><strong>MoreLogin</strong></a></summary>
 
 浏览器与云手机一体的反检测工具，中英文社区都常见，公开资料称用户规模超过 100 万。免费版含 2 个环境与 2 个成员。付费按环境数计，额外成员 $5/人/30 天。30 天价格：10 环境 $9、20 环境 $15、50 环境 $25、100 环境 $35、150 环境 $45、200 环境 $55、250 环境 $65、400 环境 $80、1000 环境 $160。60 天约 95 折，180 天约 85 折，360 天 6 折（10 环境年付 $64.8，约 $5.4/月）。1000 环境或 100 名成员以上可另谈。另提供按分钟计费的安卓云手机，单价以官网为准。
 
