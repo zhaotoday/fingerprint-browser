@@ -236,7 +236,7 @@ https://github.com/zhaotoday/fingerprint-browser
 <details>
 <summary><a href="https://clearcotelabs.com/"><strong>Clearcote</strong></a></summary>
 
-面向开发者的隐身 Chromium（最新内核 v156），指纹保护直接以补丁写在浏览器引擎层（Canvas、WebGL、音频、字体、硬件信息、TLS 指纹等），而不是注入 JavaScript，因此无头模式下同样有效。`pip install clearcote` / `npm install clearcote` 即可替换 Playwright、Puppeteer（支持 Python / JS / .NET），自带 `humanize=True` 拟人交互，另提供 MCP 服务器、Docker 镜像与桌面版配置文件管理器。定价：开源版免费（无需账号，可从公开源码复现）；免费密钥（最新内核，1 个并发）；Pro $49/月（最多 250 个并发）。支持 Windows 与 Linux，macOS 通过 Docker 运行。
+面向开发者的隐身 Chromium（最新内核 v156），指纹保护直接以补丁写在浏览器引擎层（Canvas、WebGL、音频、字体、硬件信息、TLS 指纹等），而不是注入 JavaScript，因此无头模式下同样有效。`pip install clearcote` / `npm install clearcote` 即可替换 Playwright、Puppeteer（支持 Python / JS / .NET），自带 `humanize=True` 拟人交互，另提供 MCP 服务器、Docker 镜像与桌面版配置文件管理器。定价：开源版免费（无需账号，可从公开源码复现）；免费密钥（最新内核，1 个并发）；Pro $49/月（最多 250 个并发）。支持 Windows、macOS（Apple Silicon）与 Linux。
 
 </details>
 
