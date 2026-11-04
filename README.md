@@ -234,6 +234,13 @@ https://github.com/zhaotoday/fingerprint-browser
 </details>
 
 <details>
+<summary><a href="https://clearcotelabs.com/"><strong>Clearcote</strong></a></summary>
+
+面向开发者的隐身 Chromium（最新内核 v156），指纹保护直接以补丁写在浏览器引擎层（Canvas、WebGL、音频、字体、硬件信息、TLS 指纹等），而不是注入 JavaScript，因此无头模式下同样有效。`pip install clearcote` / `npm install clearcote` 即可替换 Playwright、Puppeteer（支持 Python / JS / .NET），自带 `humanize=True` 拟人交互，另提供 MCP 服务器、Docker 镜像与桌面版配置文件管理器。定价：开源版免费（无需账号，可从公开源码复现）；免费密钥（最新内核，1 个并发）；Pro $49/月（最多 250 个并发）。支持 Windows、macOS（Apple Silicon）与 Linux。
+
+</details>
+
+<details>
 <summary><a href="https://bablosoft.com/"><strong>Bablosoft (FingerprintSwitcher / BAS)</strong></a></summary>
 
 老牌浏览器自动化生态，包含免费的 BrowserAutomationStudio（可视化编程 + 多线程）与 FingerprintSwitcher 指纹服务（约 5 万真实设备指纹库），可配合 `puppeteer-with-fingerprints` / Playwright / Selenium 使用，支持伪造 Canvas（PerfectCanvas）。定价：Free 免费版（仅支持 Windows Chrome 指纹，每 3 分钟限 1 次请求，无 PerfectCanvas）；Premium $30/1 个月、$60/3 个月（支持全平台、Firefox/Edge/Android/iPhone 指纹、PerfectCanvas 与 FingerprintDetector）。
@@ -606,6 +613,7 @@ https://github.com/zhaotoday/fingerprint-browser
 ##### 指纹 / 反检测浏览器（成品）
 - [CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
 - [Camoufox](https://github.com/daijro/camoufox)
+- [Clearcote](https://github.com/clearcotelabs/clearcote-browser)
 - [bb-browser](https://github.com/epiral/bb-browser)
 - [VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser)
 - [BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser)
@@ -770,7 +778,6 @@ https://github.com/zhaotoday/fingerprint-browser
 - [ShardBrowser](https://github.com/ProxyShard/ShardBrowser)
 - [BrowseForge](https://github.com/nczz/BrowseForge)
 - [UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher)
-- [clearcote-browser](https://github.com/clearcotelabs/clearcote-browser)
 - [anti-detect-browser-tools-tech-comparison](https://github.com/zhaotoday/anti-detect-browser-tools-tech-comparison)
 - [CloakBrowserDesktop](https://github.com/yt2399/CloakBrowserDesktop)
 - [persona-studio](https://github.com/TechQaiser/persona-studio)
