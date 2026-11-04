@@ -753,6 +753,7 @@ https://github.com/zhaotoday/fingerprint-browser
 - [VanishMe](https://github.com/XiNian-dada/VanishMe)
 
 #### 其他未整理
+- [Proxy-Providers-List](https://github.com/TheGP/Proxy-Providers-List)
 - [Everything-About-Captchas](https://github.com/TheGP/Everything-About-Captchas)
 - [browser-act/skills](https://github.com/browser-act/skills)
 - [飞跨浏览器](https://www.feikua.net/)
