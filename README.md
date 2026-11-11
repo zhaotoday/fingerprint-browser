@@ -268,7 +268,7 @@ https://github.com/zhaotoday/fingerprint-browser
 <details>
 <summary><a href="https://proxy-seller.com/?partner=4DE8621BDA7A41AB"><strong>Proxy-Seller</strong></a></summary>
 
-Proxy-Seller 为您的各类工作流程提供可靠的代理基础设施：私有住宅、移动（4G/5G/LTE）、ISP 以及数据中心 IPv4/IPv6 代理，全部支持 HTTP(S) 与 SOCKS5 协议。您可使用分布在 220+ 个地区的 4700 万+ 住宅 IP，精准定位所需的国家、城市或 ISP，并享有 99.7% 的可用性及 24/7 技术支持。
+Proxy-Seller 为您的各类工作流程提供可靠的代理基础设施：私有住宅、移动（4G/5G/LTE）、ISP 以及数据中心 IPv4/IPv6 代理，全部支持 HTTP(S) 与 SOCKS5 协议。您可使用分布在 220+ 个地区的 4700 万+ 住宅 IP，精准定位所需的国家、城市或 ISP，并享有 99.7% 的可用性及 24/7 技术支持。使用优惠码 ZJT15 可享 15% 折扣。
 
 </details>
 
