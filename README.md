@@ -7,7 +7,7 @@
 #### 收录内容
 
 - **商用指纹浏览器（27 款）**：含 Roxy、紫鸟、AdsPower、比特、Hubstudio、MoreLogin、MostLogin、DICloak、Multilogin、GoLogin、Dolphin Anty、Octo Browser、GeeLark、Linken Sphere、Undetectable、Kameleo、CloakBrowser 等国内外主流产品的核心功能、免费额度、套餐价格、API 与 MCP 支持情况。
-- **代理 IP 服务商（28 家）**：含 Rola IP、Bright Data、Oxylabs、Decodo（原 Smartproxy）、快代理、青果网络、IPIDEA、922 Proxy、LunaProxy、PIA Proxy、Kookeey、SOAX、IPRoyal、Webshare、DataImpulse 等动态住宅、静态 ISP、数据中心与移动代理的计费方式与参考单价。
+- **代理 IP 服务商（28 家）**：含 Rola IP、Proxy-Seller、Bright Data、Oxylabs、Decodo（原 Smartproxy）、快代理、青果网络、IPIDEA、922 Proxy、LunaProxy、PIA Proxy、Kookeey、SOAX、IPRoyal、Webshare、DataImpulse 等动态住宅、静态 ISP、数据中心与移动代理的计费方式与参考单价。
 - **开源项目与技术生态**：涵盖开源反检测浏览器（Camoufox、CloakBrowser、BotBrowser、VirtualBrowser 等）、Chromium 内核指纹定制源码、反检测自动化框架（Patchright、undetected-chromedriver、nodriver、pydoll、SeleniumBase 等）、指纹生成与伪造库（fingerprint-suite、browserforge 等）、指纹检测工具（FingerprintJS、CreepJS、BrowserScan、Whoer 等）以及 Chromium 编译与逆向文章视频。
 
 #### 适用人群
@@ -266,6 +266,13 @@ https://github.com/zhaotoday/fingerprint-browser
 </details>
 
 <details>
+<summary><a href="https://proxy-seller.com/?partner=4DE8621BDA7A41AB"><strong>Proxy-Seller</strong></a></summary>
+
+Proxy-Seller 为您的各类工作流程提供可靠的代理基础设施：私有住宅、移动（4G/5G/LTE）、ISP 以及数据中心 IPv4/IPv6 代理，全部支持 HTTP(S) 与 SOCKS5 协议。您可使用分布在 220+ 个地区的 4700 万+ 住宅 IP，精准定位所需的国家、城市或 ISP，并享有 99.7% 的可用性及 24/7 技术支持。
+
+</details>
+
+<details>
 <summary><a href="https://get.brightdata.com/jdpda3d3pu8n"><strong>Bright Data</strong></a></summary>
 
 企业级代理里知名度最高的一家，前身 Luminati。住宅池公开称 4 亿+ IP、195 个国家，可按国家、州、城市、邮编和 ASN 定向，另有静态 ISP 与数据中心。住宅标价：按量 $8/GB；月付 141GB $7/GB（$499）、332GB $6/GB（$999）、798GB $5/GB。页面优惠码 `RESIGB50` 可在前 3 个月打约 5 折（按量 $4/GB，798GB 档月付 $1,999）。新用户首充有等额匹配，上限 $500。
@@ -367,13 +374,6 @@ https://github.com/zhaotoday/fingerprint-browser
 <summary><a href="https://dataimpulse.com/?aff=10601"><strong>DataImpulse</strong></a></summary>
 
 2024 年后因为单价低、流量不过期，在英文社区的讨论量上升很快。住宅按量约 $1/GB（$5 起买 5GB），1TB 以上约 $0.80/GB，5TB 以上可再谈。支持国家、州、城市、邮编和 ASN，黏性会话大约 2 小时内。池子公开称约 9,000 万 IP。
-
-</details>
-
-<details>
-<summary><a href="https://proxy-seller.com/zh/"><strong>Proxy-Seller</strong></a></summary>
-
-静态 ISP 和数据中心按 IP 零售很常见，同时也有轮换住宅。公开价格索引（2026 年 9 月）写住宅按量约 $3.50/GB，100GB 月付约 $2.20/GB，更大量级页面宣传可到约 $1.30/GB。静态 IP 按国家和时长计价，入门通常按个/月。支持 HTTP(S) 与 SOCKS5。
 
 </details>
 
