@@ -753,6 +753,7 @@ Proxy-Seller 为您的各类工作流程提供可靠的代理基础设施：私�
 - [VanishMe](https://github.com/XiNian-dada/VanishMe)
 
 #### 其他未整理
+- [Antibot-Detector](https://github.com/scrapfly/Antibot-Detector)
 - [Proxy-Providers-List](https://github.com/TheGP/Proxy-Providers-List)
 - [Everything-About-Captchas](https://github.com/TheGP/Everything-About-Captchas)
 - [browser-act/skills](https://github.com/browser-act/skills)
