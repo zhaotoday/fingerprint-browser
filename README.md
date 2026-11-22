@@ -781,3 +781,4 @@ Proxy-Seller 为您的各类工作流程提供可靠的代理基础设施：私�
 - [invisible_firefox](https://github.com/feder-cr/invisible_firefox)
 - [jichangtizi-tuijian](https://github.com/Abao130/jichangtizi-tuijian)
 - [xingjiabijichang](https://github.com/Abao130/xingjiabijichang)
+- [google-qr-sms-helper](https://github.com/havenicec/google-qr-sms-helper)
