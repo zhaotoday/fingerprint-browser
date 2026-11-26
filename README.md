@@ -594,191 +594,209 @@ Proxy-Seller 为您的各类工作流程提供可靠的代理基础设施：私�
 - [我写了一个开源的指纹浏览器](https://www.bilibili.com/video/BV1uYBcY9ERL/)
 
 #### 资源集合
-- [awesome-fingerprinting](https://github.com/embeddinglayer/awesome-fingerprinting)
-- [untidetect-tools](https://github.com/TheGP/untidetect-tools)
-- [2025年排名前30的指纹浏览器汇总（最新整理）](https://github.com/pukaranda1/zhiwenliulanqi)
-- [9款最佳免费浏览器指纹测试工具](https://github.com/enqi996/free-zhiwen-browser)
-- [全球7大指纹浏览器排行榜：哪个最适合你？](https://github.com/atiharox35/fingerprint-browser-ranking)
-- [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance)
+
+> 以下 GitHub 仓库补充了 Star 与简介，统计于 2026-11-26，各列表内按 Star 从高到低排列。链接已跟随仓库跳转更新到当前地址。
+
+- [untidetect-tools](https://github.com/TheGP/untidetect-tools) ⭐ 2,084 — 反检测工具、浏览器、验证码求解与接码服务清单
+- [2025年排名前30的指纹浏览器汇总（最新整理）](https://github.com/pukaranda1/zhiwenliulanqi) ⭐ 209 — 指纹浏览器产品汇总
+- [awesome-fingerprinting](https://github.com/embeddinglayer/awesome-fingerprinting) ⭐ 91 — 浏览器指纹研究、项目与资料集
+- [收集常用的浏览器指纹检测平台汇总](https://github.com/vals38085/zhiwenjiance) ⭐ 30 — 浏览器指纹检测平台汇总
+- [9款最佳免费浏览器指纹测试工具](https://github.com/enqi996/free-zhiwen-browser) ⭐ 4 — 免费浏览器指纹测试工具整理
+- [全球7大指纹浏览器排行榜：哪个最适合你？](https://github.com/atiharox35/fingerprint-browser-ranking) ⭐ 4 — 指纹浏览器排行整理
 
 #### 开源
 
+> 各分类内按 Star 从高到低排列，统计于 2026-11-26。
+
 ##### 指纹 / 反检测浏览器（成品）
-- [CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
-- [Camoufox](https://github.com/daijro/camoufox)
-- [bb-browser](https://github.com/epiral/bb-browser)
-- [VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser)
-- [BotBrowser](https://github.com/MiddleSchoolStudent/BotBrowser)
-- [Ant-Browser](https://github.com/black-ant/Ant-Browser)
-- [GeekezBrowser](https://github.com/EchoHS/GeekezBrowser)
-- [undetectable-fingerprint-browser](https://github.com/itbrowser-net/undetectable-fingerprint-browser)
-- [YSbrowser](https://github.com/selfshore/YSbrowser)
-- [camofox-browser](https://github.com/redf0x1/camofox-browser)
-- [XChrome](https://github.com/chanawudi/XChrome)
-- [firefox-fingerprintBrowser](https://github.com/LoseNine/firefox-fingerprintBrowser)
-- [kameleo](https://github.com/kameleo-io/kameleo)
-- [ruyiBrowser](https://github.com/LoseNine/ruyiBrowser)
-- [luna-browser](https://github.com/musiclover789/luna-browser)
-- [Open-Anti-Browser](https://github.com/Wtcity22/Open-Anti-Browser)
-- [FingerPrintJSBrowser](https://github.com/LoseNine/FingerPrintJSBrowser)
-- [Fingerprint-Browser](https://github.com/gihugui/Fingerprint-Browser)
-- [antidetect-browser](https://github.com/hisune/antidetect-browser)
-- [social-browser](https://github.com/absunstar/social-browser)
-- [Open-Anti-Browser](https://github.com/Wtcity22/Open-Anti-Browser)
-- [OpenBrowser](https://github.com/lyu0805/OpenBrowser)
+
+- [CloakBrowser](https://github.com/CloakHQ/CloakBrowser) ⭐ 33,086 — 带源码级指纹补丁的隐身 Chromium，可作为 Playwright 替代
+- [Camoufox](https://github.com/daijro/camoufox) ⭐ 13,683 — 反检测浏览器
+- [bb-browser](https://github.com/epiral/bb-browser) ⭐ 6,265 — 通过 CLI 和 MCP 让 AI Agent 操控本机已登录的 Chrome
+- [VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser) ⭐ 3,299 — 免费反指纹浏览器
+- [BotBrowser](https://github.com/botswin/BotBrowser) ⭐ 2,672 — 带统一指纹防护的隐私浏览器内核
+- [Ant-Browser](https://github.com/black-ant/Ant-Browser) ⭐ 2,270 — 指纹浏览器
+- [GeekezBrowser](https://github.com/EchoHS/GeekezBrowser) ⭐ 1,180 — 基于 Electron、Puppeteer 与 Xray-core 的指纹浏览器
+- [undetectable-fingerprint-browser](https://github.com/itbrowser-net/undetectable-fingerprint-browser) ⭐ 875 — 开源指纹伪装方案，可配合 Selenium、Playwright 与 Puppeteer
+- [OpenBrowser](https://github.com/sheying2013/OpenBrowser) ⭐ 806 — 本地指纹浏览器，支持多环境、代理、同步与 RPA
+- [camofox-browser](https://github.com/redf0x1/camofox-browser) ⭐ 457 — 基于 Camoufox 的反检测浏览器服务，提供 REST API
+- [XChrome](https://github.com/chanawudi/XChrome) ⭐ 293 — 开源指纹浏览器，支持指纹隔离、群控、脚本与 API
+- [kameleo](https://github.com/kameleo-io/kameleo) ⭐ 224 — 面向抓取与自动化的反检测浏览器，支持自托管
+- [Open-Anti-Browser](https://github.com/Wtcity22/Open-Anti-Browser) ⭐ 89 — 支持 Chrome 与 Firefox 的开源指纹浏览器
+- [luna-browser](https://github.com/musiclover789/luna-browser) ⭐ 58 — 抗指纹浏览器及相关文档
+- [antidetect-browser](https://github.com/hisune/antidetect-browser) ⭐ 0 — 指纹浏览器（防关联浏览器）资源整理
+- [Fingerprint-Browser](https://github.com/gihugui/Fingerprint-Browser) — 仓库当前无法访问
+- [FingerPrintJSBrowser](https://github.com/LoseNine/FingerPrintJSBrowser) — 仓库当前无法访问
+- [firefox-fingerprintBrowser](https://github.com/LoseNine/firefox-fingerprintBrowser) — 仓库当前无法访问
+- [ruyiBrowser](https://github.com/LoseNine/ruyiBrowser) — 仓库当前无法访问
+- [social-browser](https://github.com/absunstar/social-browser) — 仓库当前无法访问
+- [YSbrowser](https://github.com/selfshore/YSbrowser) — 仓库当前无法访问
 
 ##### 指纹 Chromium / 内核源码级定制
-- [fingerprint-chromium](https://github.com/adryfish/fingerprint-chromium)
-- [Chrome Power](https://github.com/zmzimpl/chrome-power-chromium)
-- [Venom-aoman](https://github.com/z-bool/Venom-aoman)
-- [openFpchromium](https://github.com/FPEsocrter/openFpchromium)
-- [chromium_fingerprint](https://github.com/xingzheseo/chromium_fingerprint)
+
+- [fingerprint-chromium](https://github.com/adryfish/fingerprint-chromium) ⭐ 3,328 — 基于 Ungoogled Chromium 的开源指纹浏览器
+- [Chrome Power](https://github.com/zmzimpl/chrome-power-chromium) ⭐ 140 — chrome-power 修改过的 Chromium 源码
+- [Venom-aoman](https://github.com/z-bool/Venom-aoman) ⭐ 109 — 通过伪造浏览器环境绕过部分限制的去指纹浏览器
+- [openFpchromium](https://github.com/FPEsocrter/openFpchromium) ⭐ 58 — 开源指纹浏览器的 Chromium 开发资料
+- [chromium_fingerprint](https://github.com/xingzheseo/chromium_fingerprint) — 仓库当前无法访问
 
 ##### 轻量 / 嵌入式浏览器内核
-- [ladybird](https://github.com/LadybirdBrowser/ladybird)
-- [Lightpanda Browser](https://github.com/lightpanda-io/browser)
-- [miniblink49](https://github.com/weolar/miniblink49)
-- [cef](https://github.com/chromiumembedded/cef)
-- [mini_chromium](https://github.com/chromium/mini_chromium)
-- [miniblink132](https://github.com/weolar/miniblink132)
-- [miniblink](https://miniblink.net/index.html)
+
+- [ladybird](https://github.com/LadybirdBrowser/ladybird) ⭐ 69,337 — 从零实现的独立网页浏览器
+- [Lightpanda Browser](https://github.com/lightpanda-io/browser) ⭐ 42,608 — 面向 AI 与自动化的无头浏览器
+- [miniblink49](https://github.com/weolar/miniblink49) ⭐ 7,844 — 轻量 Blink 内核，用于在应用里嵌入 HTML 界面
+- [cef](https://github.com/chromiumembedded/cef) ⭐ 4,905 — 把 Chromium 嵌入其他应用的框架
+- [mini_chromium](https://github.com/chromium/mini_chromium) ⭐ 314 — 从 Chromium 抽出的少量底层基础例程
+- [miniblink132](https://github.com/weolar/miniblink132) ⭐ 53 — 轻量浏览器内核
+- [miniblink](https://miniblink.net/index.html) — 轻量浏览器内核官网，源码见 miniblink49 与 miniblink132
 
 ##### Chromium 构建 / 编译 / 部署
-- [ungoogled-chromium-windows](https://github.com/ungoogled-software/ungoogled-chromium-windows)
-- [Sparticuz/chromium](https://github.com/Sparticuz/chromium)
-- [chrlauncher](https://github.com/henrypp/chrlauncher)
-- [chromium-win64](https://github.com/Hibbiki/chromium-win64)
-- [docker-chromium](https://github.com/linuxserver/docker-chromium)
+
+- [ungoogled-chromium-windows](https://github.com/ungoogled-software/ungoogled-chromium-windows) ⭐ 2,660 — ungoogled-chromium 的 Windows 打包
+- [Sparticuz/chromium](https://github.com/Sparticuz/chromium) ⭐ 1,669 — 供 Serverless 平台使用的 Chromium 构建
+- [chrlauncher](https://github.com/henrypp/chrlauncher) ⭐ 1,061 — Chromium 便携启动与更新器
+- [chromium-win64](https://github.com/Hibbiki/chromium-win64) ⭐ 934 — Windows x64 的 Chromium 构建
+- [docker-chromium](https://github.com/linuxserver/docker-chromium) ⭐ 415 — 可在网页里访问的 Debian 容器版 Chromium
 
 ##### 常规 / 隐私浏览器
-- [brave-browser](https://github.com/brave/brave-browser)
-- [helium](https://github.com/imputnet/helium)
-- [minbrowser](https://github.com/minbrowser/min)
-- [iceraven-browser](https://github.com/fork-maintainers/iceraven-browser)
+
+- [brave-browser](https://github.com/brave/brave-browser) ⭐ 24,321 — 覆盖 Android、iOS、Linux、macOS 与 Windows 的浏览器
+- [helium](https://github.com/imputnet/helium) ⭐ 23,056 — 注重隐私与速度的网页浏览器
+- [minbrowser](https://github.com/minbrowser/min) ⭐ 9,269 — 注重速度与隐私的轻量浏览器
+- [iceraven-browser](https://github.com/fork-maintainers/iceraven-browser) ⭐ 6,597 — Iceraven 浏览器
 
 ##### 浏览器自动化 / 反检测自动化框架
-- [stagehand](https://www.stagehand.dev/)
-- [automa](https://github.com/AutomaApp/automa)
-- [SeleniumBase](https://github.com/seleniumbase/SeleniumBase)
-- [undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)
-- [steel-browser](https://github.com/steel-dev/steel-browser)
-- [pydoll](https://github.com/autoscrape-labs/pydoll)
-- [browser-act/skills](https://github.com/browser-act/skills)
-- [nodriver](https://github.com/ultrafunkamsterdam/nodriver)
-- [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)
-- [invisible_playwright](https://github.com/feder-cr/invisible_playwright)
-- [patchright-nodejs](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs)
-- [AutoWK](https://github.com/LoseNine/AutoWK)
-- [cyCronet](https://github.com/2833844911/cyCronet)
-- [chromium-bidi](https://github.com/GoogleChromeLabs/chromium-bidi)
-- [undetected-browser](https://github.com/AlloryDante/undetected-browser)
-- [antidetect](https://github.com/brodev3/antidetect)
-- [botbrowser-mcp](https://github.com/tonwe/botbrowser-mcp)
+
+- [stagehand](https://github.com/browserbase/stagehand) ⭐ 26,155 — 用于提取网页数据并与页面交互的自动化 SDK（官网 [stagehand.dev](https://www.stagehand.dev/)）
+- [automa](https://github.com/AutomaApp/automa) ⭐ 21,730 — 用积木流程自动化操作浏览器的扩展
+- [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) ⭐ 13,287 — 覆盖端到端测试、网页抓取与隐身模式的浏览器自动化框架
+- [undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) ⭐ 12,920 — 用于降低自动化特征的 Selenium ChromeDriver
+- [steel-browser](https://github.com/steel-dev/steel-browser) ⭐ 8,018 — 面向 AI Agent 的开源浏览器 API 与沙箱
+- [pydoll](https://github.com/autoscrape-labs/pydoll) ⭐ 7,155 — 不依赖 WebDriver 的 Chromium 自动化库
+- [browser-act/skills](https://github.com/browser-act/skills) ⭐ 6,430 — 面向 AI Agent 的浏览器自动化命令行工具
+- [nodriver](https://github.com/ultrafunkamsterdam/nodriver) ⭐ 4,965 — undetected-chromedriver 的后续项目，用于网页自动化
+- [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) ⭐ 4,559 — Node.js 的 Chrome DevTools 协议接口
+- [invisible_playwright](https://github.com/oss-invisible/playwright) ⭐ 2,612 — 带隐身指纹的 Playwright
+- [patchright-nodejs](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-nodejs) ⭐ 817 — 反检测向的 Playwright Node.js 版本
+- [cyCronet](https://github.com/2833844911/cyCronet) ⭐ 239 — 基于 Cronet、模拟 Chrome 请求协议指纹的 HTTP 客户端
+- [chromium-bidi](https://github.com/GoogleChromeLabs/chromium-bidi) ⭐ 177 — Chromium 的 WebDriver BiDi 实现
+- [undetected-browser](https://github.com/AlloryDante/undetected-browser) ⭐ 141 — 加强了反检测处理的 Puppeteer 实现
+- [antidetect](https://github.com/brodev3/antidetect) ⭐ 115 — 管理反检测浏览器配置的命令行工具
+- [botbrowser-mcp](https://github.com/tonwe/botbrowser-mcp) ⭐ 3 — 仓库未填写简介
+- [AutoWK](https://github.com/LoseNine/AutoWK) — 仓库当前无法访问
 
 ##### 自动化 + 指纹注入（with-fingerprints 系列）
-- [puppeteer-with-fingerprints](https://github.com/CheshireCaat/puppeteer-with-fingerprints)
-- [playwright-with-fingerprints](https://github.com/bablosoft/playwright-with-fingerprints)
-- [browser-with-fingerprints](https://github.com/CheshireCaat/browser-with-fingerprints)
-- [browser-with-fingerprints](https://github.com/bablosoft/browser-with-fingerprints)
-- [selenium-with-fingerprints](https://github.com/bablosoft/selenium-with-fingerprints)
-- [selenium-with-fingerprints](https://github.com/CheshireCaat/selenium-with-fingerprints)
+
+- [puppeteer-with-fingerprints](https://github.com/bablosoft/puppeteer-with-fingerprints) ⭐ 459 — 带指纹替换的 Puppeteer 自动化封装
+- [playwright-with-fingerprints](https://github.com/bablosoft/playwright-with-fingerprints) ⭐ 347 — 带指纹替换的 Playwright 自动化封装
+- [browser-with-fingerprints](https://github.com/bablosoft/browser-with-fingerprints) ⭐ 247 — 带指纹替换的浏览器自动化封装
+- [selenium-with-fingerprints](https://github.com/bablosoft/selenium-with-fingerprints) ⭐ 133 — 带指纹替换的 Selenium 自动化封装
 
 ##### 指纹生成 / 伪造库 / 数据集
-- [fingerprint-suite](https://github.com/apify/fingerprint-suite)
-- [browserforge](https://github.com/daijro/browserforge)
-- [user-agents](https://github.com/intoli/user-agents)
-- [simprint](https://github.com/Simprint/simprint)
-- [chrome-fingerprints](https://github.com/Vinyzu/chrome-fingerprints)
-- [fingerprint-generator](https://github.com/scrapfly/fingerprint-generator)
+
+- [fingerprint-suite](https://github.com/apify/fingerprint-suite) ⭐ 2,682 — 用于爬虫匿名化的浏览器指纹工具集
+- [browserforge](https://github.com/daijro/browserforge) ⭐ 1,306 — 浏览器请求头与指纹生成器
+- [user-agents](https://github.com/intoli/user-agents) ⭐ 1,195 — 按日更新数据的随机 User-Agent 生成库
+- [simprint](https://github.com/Simprint/simprint) ⭐ 701 — 开源指纹浏览器与可编程浏览器工作区
+- [chrome-fingerprints](https://github.com/Vinyzu/chrome-fingerprints) ⭐ 303 — 约 1 万条 Windows Chrome 指纹数据集
+- [fingerprint-generator](https://github.com/scrapfly/fingerprint-generator) ⭐ 174 — 浏览器指纹数据生成器
 
 ##### 指纹检测 / 分析工具
-- [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)
-- [creepjs](https://github.com/abrahamjuliot/creepjs)
-- [browser](https://github.com/mumuy/browser)
-- [fpscanner](https://github.com/antoinevastel/fpscanner)
-- [trustdevice-js](https://github.com/trustdecision/trustdevice-js)
-- [Firefox-FingerPrint-Analyzer](https://github.com/LoseNine/Firefox-FingerPrint-Analyzer)
-- [DeviceJs](https://github.com/skillnull/DeviceJs)
-- [get-browser-fingerprint](https://github.com/damianobarbati/get-browser-fingerprint)
-- [browser-fingerprint](https://github.com/LeonKohli/browser-fingerprint)
-- [digital-fingerprint](https://github.com/rakeshid03/digital-fingerprint)
+
+- [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) ⭐ 28,819 — 开源浏览器指纹识别库
+- [creepjs](https://github.com/abrahamjuliot/creepjs) ⭐ 2,559 — 设备与浏览器指纹检测页面
+- [browser](https://github.com/mumuy/browser) ⭐ 1,892 — User-Agent 分析与浏览器识别工具
+- [fpscanner](https://github.com/antoinevastel/fpscanner) ⭐ 803 — 可自托管的浏览器指纹与机器人检测
+- [trustdevice-js](https://github.com/trustdecision/trustdevice-js) ⭐ 286 — 开源浏览器设备指纹库
+- [DeviceJs](https://github.com/skillnull/DeviceJs) ⭐ 257 — 获取设备信息并生成浏览器指纹的 JS 库
+- [get-browser-fingerprint](https://github.com/damianobarbati/get-browser-fingerprint) ⭐ 164 — 仓库未填写简介
+- [browser-fingerprint](https://github.com/LeonKohli/browser-fingerprint) ⭐ 120 — 演示多种浏览器指纹技术的应用
+- [digital-fingerprint](https://github.com/rakeshid03/digital-fingerprint) ⭐ 17 — 用可视化方式展示浏览器指纹能收集哪些数据
+- [Firefox-FingerPrint-Analyzer](https://github.com/LoseNine/Firefox-FingerPrint-Analyzer) — 仓库当前无法访问
 
 ##### 多开 / 环境 / 配置管理
-- [donutbrowser](https://github.com/zhom/donutbrowser)
-- [Chrome Power](https://github.com/zmzimpl/chrome-power-app)
-- [Chrome-Manager](https://github.com/devilflasher/Chrome-Manager)
-- [ChromiumManager](https://github.com/vtumi/ChromiumManager)
-- [by-chrome-app](https://github.com/bysstudio/by-chrome-app)
-- [Browser-Manager](https://github.com/chenyk2016/Browser-Manager)
-- [camoufox-profile-manager](https://github.com/polyackiy/camoufox-profile-manager)
+
+- [donutbrowser](https://github.com/donutbrowser/donutbrowser) ⭐ 4,399 — 注重隐私的反检测浏览器
+- [Chrome Power](https://github.com/zmzimpl/chrome-power-app) ⭐ 1,554 — 开源的多 Chrome 管理工具
+- [Chrome-Manager](https://github.com/devilflasher/Chrome-Manager) ⭐ 751 — Chrome 多窗口打开、排列与同步工具
+- [ChromiumManager](https://github.com/vtumi/ChromiumManager) ⭐ 152 — 带指纹伪装、代理与 Cookie 同步的多环境浏览器管理
+- [camoufox-profile-manager](https://github.com/polyackiy/camoufox-profile-manager) ⭐ 105 — 基于 Camoufox 的自托管反检测配置管理器
+- [by-chrome-app](https://github.com/bysstudio/by-chrome-app) ⭐ 86 — 指纹浏览器多开、代理与窗口同步管理
+- [Browser-Manager](https://github.com/chenyk2016/Browser-Manager) ⭐ 76 — 基于 Electron 的多 Chrome 实例管理工具
 
 ##### 浏览器扩展 / 插件工具
-- [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store)
-- [my-fingerprint](https://github.com/omegaee/my-fingerprint)
+
+- [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) ⭐ 3,362 — 让 ungoogled-chromium 安装并更新 Chrome 网上应用店扩展
+- [my-fingerprint](https://github.com/omegaee/my-fingerprint) ⭐ 1,511 — 保护浏览器指纹的浏览器扩展
 
 ##### 远程 / 云浏览器
-- [neko](https://github.com/m1k1o/neko)
-- [BrowserBox](https://github.com/BrowserBox/BrowserBox)
+
+- [neko](https://github.com/m1k1o/neko) ⭐ 22,725 — 用 Docker 自托管、通过 WebRTC 访问的虚拟浏览器
+- [BrowserBox](https://github.com/BrowserBox/BrowserBox) ⭐ 3,938 — 面向企业与 AI 任务的浏览器基础设施
 
 ##### 代理 / IP / 网络工具
-- [MyIP](https://github.com/jason5ng32/MyIP)
-- [ip-info-api](https://github.com/ihmily/ip-info-api)
-- [zhuzhai-ip](https://github.com/sc8940020/zhuzhai-ip)
-- [socks5-proxy](https://github.com/assez/socks5-proxy)
-- [ispip](https://github.com/gsyunip/ispip)
+
+- [MyIP](https://github.com/jason5ng32/MyIP) ⭐ 12,443 — IP、地理位置、WebRTC / DNS 泄漏与浏览器指纹检测工具箱
+- [ip-info-api](https://github.com/ihmily/ip-info-api) ⭐ 1,561 — 免鉴权的免费 IP 信息查询接口集合
+- [zhuzhai-ip](https://github.com/sc8940020/zhuzhai-ip) ⭐ 193 — 住宅代理 IP 资料整理
+- [ispip](https://github.com/gsyunip/ispip) — 仓库当前无法访问
+- [socks5-proxy](https://github.com/assez/socks5-proxy) — 仓库当前无法访问
 
 ##### 网络测速工具
-- [speedtest](https://github.com/librespeed/speedtest)
-- [Speed-Test](https://github.com/openspeedtest/Speed-Test)
-- [speedtest](https://github.com/cloudflare/speedtest)
+
+- [speedtest](https://github.com/librespeed/speedtest) ⭐ 15,330 — 可自托管的 HTML5 网速测试
+- [Speed-Test](https://github.com/openspeedtest/Speed-Test) ⭐ 3,876 — 基于 HTML5 的开源网速测试
+- [speedtest](https://github.com/cloudflare/speedtest) ⭐ 781 — 针对 Cloudflare 边缘网络的测速组件
 
 ##### 数据取证 / 调试 / 协议分析
-- [HackBrowserData](https://github.com/moonD4rk/HackBrowserData)
-- [hindsight](https://github.com/obsidianforensics/hindsight)
-- [debugger-protocol-viewer](https://github.com/ChromeDevTools/debugger-protocol-viewer)
-- [AI_JS_DEBUGGER](https://github.com/Valerian7/AI_JS_DEBUGGER)
-- [chromium-ipc-sniffer](https://github.com/tomer8007/chromium-ipc-sniffer)
+
+- [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) ⭐ 14,754 — 从多种浏览器导出密码、Cookie 与历史记录的取证工具，面向授权安全研究
+- [hindsight](https://github.com/RyanDFIR/hindsight) ⭐ 1,572 — Chrome、Chromium 与 Firefox 的浏览器取证工具
+- [debugger-protocol-viewer](https://github.com/ChromeDevTools/debugger-protocol-viewer) ⭐ 901 — Chrome DevTools 协议文档站
+- [AI_JS_DEBUGGER](https://github.com/Valerian7/AI_JS_DEBUGGER) ⭐ 773 — 基于 Chrome DevTools 协议的 JavaScript 逆向分析工具
+- [chromium-ipc-sniffer](https://github.com/tomer8007/chromium-ipc-sniffer) ⭐ 422 — 抓取 Windows 上 Chromium 进程间通信的工具
 
 ##### 教程 / 资源合集 / 文档
-- [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers)
-- [browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting)
-- [Chromium_FingerPrint_Tutorial](https://github.com/LoseNine/Chromium_FingerPrint_Tutorial)
-- [awesome-anti-detect](https://github.com/pencil20388-eng/awesome-anti-detect)
-- [Top-antidetect-browser](https://github.com/meimeiblue01/best-antidetect-browser/blob/main/Top-antidetect-browser.md)
-- [AntidetectBrowser](https://github.com/Abao130/AntidetectBrowser)
+
+- [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) ⭐ 6,710 — 无头浏览器清单
+- [browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) ⭐ 5,172 — 反机器人系统与浏览器指纹对抗的资料整理
+- [awesome-anti-detect](https://github.com/pencil20388-eng/awesome-anti-detect) ⭐ 33 — 反检测浏览器、指纹与自动化资料清单
+- [AntidetectBrowser](https://github.com/Abao130/AntidetectBrowser) ⭐ 7 — 指纹浏览器推荐与对比指南
+- [Top-antidetect-browser](https://github.com/meimeiblue01/best-antidetect-browser/blob/main/Top-antidetect-browser.md) ⭐ 0 — 仓库未填写简介
+- [Chromium_FingerPrint_Tutorial](https://github.com/LoseNine/Chromium_FingerPrint_Tutorial) — 仓库当前无法访问
 
 #### 插件
-- [Chrome-proxy-helper](https://github.com/henices/Chrome-proxy-helper)
-- [cookie-editor](https://github.com/Moustachauve/cookie-editor)
-- [VanishMe](https://github.com/XiNian-dada/VanishMe)
+
+- [cookie-editor](https://github.com/Moustachauve/cookie-editor) ⭐ 1,802 — 创建、编辑和删除 Cookie 的浏览器扩展
+- [Chrome-proxy-helper](https://github.com/henices/Chrome-proxy-helper) ⭐ 352 — 为 Chrome 设置代理的扩展
+- [VanishMe](https://github.com/XiNian-dada/VanishMe) ⭐ 112 — 伪装浏览器指纹的隐私保护扩展
 
 #### 其他未整理
-- [foxprofile](https://github.com/chienbm98/foxprofile)
-- [Antibot-Detector](https://github.com/scrapfly/Antibot-Detector)
-- [Proxy-Providers-List](https://github.com/TheGP/Proxy-Providers-List)
-- [Everything-About-Captchas](https://github.com/TheGP/Everything-About-Captchas)
-- [browser-act/skills](https://github.com/browser-act/skills)
+
+- [obscura](https://github.com/h4ckf0r0day/obscura) ⭐ 37,460 — 面向 AI Agent 与网页抓取的无头浏览器
+- [camofox-browser](https://github.com/jo-inc/camofox-browser) ⭐ 12,498 — 面向 AI Agent 的隐身无头浏览器，可替换 Puppeteer / Playwright
+- [awesome-vpn](https://github.com/awesome-vpn/awesome-vpn) ⭐ 7,014 — 每日更新的免费代理节点聚合列表
+- [google-qr-sms-helper](https://github.com/havenicec/google-qr-sms-helper) ⭐ 6,475 — 调整 Google 账号验证方式的 Chrome 扩展
+- [ShardBrowser](https://github.com/ProxyShard/ShardBrowser) ⭐ 1,822 — 开源反检测浏览器启动器，在引擎层做指纹伪装
+- [UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher) ⭐ 1,555 — 可配置的 User-Agent 伪装扩展
+- [jichangtizi-tuijian](https://github.com/Abao130/jichangtizi-tuijian) ⭐ 1,402 — 机场与 Clash 节点测评整理
+- [ovobrowser](https://github.com/ovobrowsersupport/ovobrowser) ⭐ 1,358 — 在源码层修改指纹的 Chromium 内核
+- [jichangtz-tuijian](https://github.com/myikuns/jichangtz-tuijian) ⭐ 1,212 — 机场与翻墙服务推荐整理
+- [Prism-Browser-Community](https://github.com/DFarm6/Prism-Browser-Community) ⭐ 775 — 基于 Chromium 与 Electron 的本地多配置指纹浏览器
+- [Antibot-Detector](https://github.com/scrapfly/Antibot-Detector) ⭐ 636 — 实时识别反机器人、验证码与指纹方案的工具
+- [browsers-benchmark](https://github.com/techinz/browsers-benchmark) ⭐ 446 — 浏览器自动化引擎的绕过率、性能与隐身基准
+- [xingjiabijichang](https://github.com/Abao130/xingjiabijichang) ⭐ 319 — 机场与低价梯子推荐整理
+- [clearcote-browser](https://github.com/clearcotelabs/clearcote-browser) ⭐ 280 — 在引擎层伪装指纹、可从源码构建的隐身 Chromium
+- [foxprofile](https://github.com/chienbm98/foxprofile) ⭐ 209 — 开源反检测配置管理器，支持按配置隔离指纹、Cookie 与代理
+- [fury-antidetect-browser](https://github.com/furyteamtop/fury-antidetect-browser) ⭐ 200 — 在 C++ 层伪装指纹的开源 Chromium 分支
+- [persona-studio](https://github.com/TechQaiser/persona-studio) ⭐ 93 — 可自托管的反检测浏览器与配置管理器
+- [BrowseForge](https://github.com/nczz/BrowseForge) ⭐ 70 — 带独立配置、REST API、MCP 与 Playwright 的反检测浏览器工作区
+- [Everything-About-Captchas](https://github.com/TheGP/Everything-About-Captchas) ⭐ 64 — 验证码库、求解器与评分资料清单
+- [Camouflow](https://github.com/Tort1k558/Camouflow) ⭐ 63 — 基于 Camoufox 与 Playwright 的本地反检测浏览器工作区
+- [Proxy-Providers-List](https://github.com/TheGP/Proxy-Providers-List) ⭐ 63 — 各代理服务商报价对照表
+- [CloakBrowserDesktop](https://github.com/yt2399/CloakBrowserDesktop) ⭐ 30 — 基于 CloakBrowser 的本地浏览器环境管理桌面应用
+- [antibrow](https://github.com/antibrow/antibrow) ⭐ 18 — 提供 Playwright 风格 API 的反检测浏览器
+- [xl-browser](https://github.com/XiaoLop/xl-browser) ⭐ 7 — 指纹浏览器环境管理
+- [anti-detect-browser-tools-tech-comparison](https://github.com/zhaotoday/anti-detect-browser-tools-tech-comparison) ⭐ 1 — 网页抓取与反检测工具的技术对比
 - [飞跨浏览器](https://www.feikua.net/)
-- [jichangtz-tuijian](https://github.com/myikuns/jichangtz-tuijian)
-- [Prism-Browser-Community](https://github.com/DFarm6/Prism-Browser-Community)
-- [Chrome-proxy-helper](https://github.com/henices/Chrome-proxy-helper)
-- [antibrow](https://github.com/antibrow/antibrow)
-- [browsers-benchmark](https://github.com/techinz/browsers-benchmark)
-- [awesome-vpn](https://github.com/awesome-vpn/awesome-vpn)
-- [ovobrowser](https://github.com/ovobrowsersupport/ovobrowser)
-- [fury-antidetect-browser](https://github.com/furyteamtop/fury-antidetect-browser)
-- [Camouflow](https://github.com/Tort1k558/Camouflow)
-- [obscura](https://github.com/h4ckf0r0day/obscura)
-- [ShardBrowser](https://github.com/ProxyShard/ShardBrowser)
-- [BrowseForge](https://github.com/nczz/BrowseForge)
-- [UserAgent-Switcher](https://github.com/ray-lothian/UserAgent-Switcher)
-- [clearcote-browser](https://github.com/clearcotelabs/clearcote-browser)
-- [anti-detect-browser-tools-tech-comparison](https://github.com/zhaotoday/anti-detect-browser-tools-tech-comparison)
-- [CloakBrowserDesktop](https://github.com/yt2399/CloakBrowserDesktop)
-- [persona-studio](https://github.com/TechQaiser/persona-studio)
-- [camofox-browser](https://github.com/jo-inc/camofox-browser)
-- [xl-browser](https://github.com/XiaoLop/xl-browser)
-- [invisible_firefox](https://github.com/feder-cr/invisible_firefox)
-- [jichangtizi-tuijian](https://github.com/Abao130/jichangtizi-tuijian)
-- [xingjiabijichang](https://github.com/Abao130/xingjiabijichang)
-- [google-qr-sms-helper](https://github.com/havenicec/google-qr-sms-helper)
+- [invisible_firefox](https://github.com/feder-cr/invisible_firefox) — 仓库当前无法访问
