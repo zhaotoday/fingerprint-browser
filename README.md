@@ -520,6 +520,7 @@ Proxy-Seller 为您的各类工作流程提供可靠的代理基础设施：私�
 #### 资源导航
 - [2345 出海导航](https://www.chuhai2345.com/)
 - [Hubstudio 资源导航](https://www.hubstudio.cn/zy/)
+- [AntiDetect Rank 指纹浏览器对比（英文）](https://bestantidetectbrowser.com/)
 
 #### 检测网站
 - [whoer](https://whoer.net/zh)
